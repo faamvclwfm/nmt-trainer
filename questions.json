@@ -4498,6 +4498,2694 @@
     },
     "correct_answer": "C",
     "explanation": "Відносний займенник 'which' (або 'that') використовується для неживих предметів."
+  },
+  {
+    "id": 301,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The manager asked the employees (51) _______ the office lights before leaving.",
+    "question": "Choose the correct variant for (51):",
+    "options": {
+      "A": "turn off",
+      "B": "turning off",
+      "C": "to turn off",
+      "D": "turned off"
+    },
+    "correct_answer": "C",
+    "explanation": "Конструкція 'ask someone to do something' вимагає інфінітива з часткою 'to'."
+  },
+  {
+    "id": 302,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "Many students (67) _______ for scholarships to help pay for their university tuition.",
+    "question": "Choose the correct variant for (67):",
+    "options": {
+      "A": "apply",
+      "B": "request",
+      "C": "demand",
+      "D": "ask"
+    },
+    "correct_answer": "A",
+    "explanation": "Сталий вираз 'apply for a scholarship' — подавати заявку на стипендію."
+  },
+  {
+    "id": 303,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Solar energy is becoming a primary source of electricity in many sunny regions. Unlike fossil fuels, it does not produce harmful greenhouse gases, making it a sustainable choice for the planet.",
+    "question": "What is the main benefit of solar energy mentioned in the text?",
+    "options": {
+      "A": "It is cheaper than coal.",
+      "B": "It is available everywhere in the world.",
+      "C": "It is environmentally friendly.",
+      "D": "It can be stored for many years."
+    },
+    "correct_answer": "C",
+    "explanation": "Фраза 'does not produce harmful gases' вказує на екологічність (environmentally friendly)."
+  },
+  {
+    "id": 304,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "By the time we got to the cinema, the tickets (48) _______ out.",
+    "question": "Choose the correct variant for (48):",
+    "options": {
+      "A": "sold",
+      "B": "have been sold",
+      "C": "had been sold",
+      "D": "were selling"
+    },
+    "correct_answer": "C",
+    "explanation": "Past Perfect Passive: квитки були розпродані до того, як ми прийшли."
+  },
+  {
+    "id": 305,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "I’m not very good (68) _______ remembering names, but I never forget a face.",
+    "question": "Choose the correct variant for (68):",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "with"
+    },
+    "correct_answer": "B",
+    "explanation": "Прикметник 'good' у значенні 'вправний у чомусь' вживається з прийменником 'at'."
+  },
+  {
+    "id": 306,
+    "type": "Grammar (Task 6)",
+    "year": 2024,
+    "text": "You (52) _______ better finish your assignment before the deadline.",
+    "question": "Choose the correct variant for (52):",
+    "options": {
+      "A": "should",
+      "B": "would",
+      "C": "had",
+      "D": "must"
+    },
+    "correct_answer": "C",
+    "explanation": "Стала конструкція 'had better + Verb' (краще б тобі щось зробити)."
+  },
+  {
+    "id": 307,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "Volunteer Abroad: Help build schools in developing countries. No technical skills required, just a willingness to work hard. Accommodation and food provided by the charity.",
+    "question": "What do volunteers get in return for their work?",
+    "options": {
+      "A": "A high monthly salary.",
+      "B": "Free flights to the destination.",
+      "C": "A place to live and meals.",
+      "D": "A professional construction certificate."
+    },
+    "correct_answer": "C",
+    "explanation": "'Accommodation and food provided' означає проживання та харчування."
+  },
+  {
+    "id": 308,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "If it (49) _______ so cold, we would go for a walk in the park.",
+    "question": "Choose the correct variant for (49):",
+    "options": {
+      "A": "isn't",
+      "B": "wasn't",
+      "C": "weren't",
+      "D": "hadn't been"
+    },
+    "correct_answer": "C",
+    "explanation": "Second Conditional (теперішня уявна ситуація). У формальній мові для всіх осіб вживається 'were/weren't'."
+  },
+  {
+    "id": 309,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The scientist (69) _______ out a survey to collect data for his research.",
+    "question": "Choose the correct variant for (69):",
+    "options": {
+      "A": "carried",
+      "B": "made",
+      "C": "gave",
+      "D": "put"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'carry out' (проводити опитування/дослідження)."
+  },
+  {
+    "id": 310,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "AIRPORT SECURITY: All liquids must be in containers of 100ml or less and placed in a single, transparent, resealable plastic bag.",
+    "question": "How should liquids be packed for a flight?",
+    "options": {
+      "A": "In any bottle of any size.",
+      "B": "In large dark boxes.",
+      "C": "In small bottles inside a clear bag.",
+      "D": "They are not allowed at all."
+    },
+    "correct_answer": "C",
+    "explanation": "100ml — це маленькі ємності, 'transparent bag' — прозорий пакет."
+  },
+  {
+    "id": 311,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The book (53) _______ by J.K. Rowling has been translated into over 80 languages.",
+    "question": "Choose the correct variant for (53):",
+    "options": {
+      "A": "wrote",
+      "B": "written",
+      "C": "writing",
+      "D": "was written"
+    },
+    "correct_answer": "B",
+    "explanation": "Passive Participle (дієприкметник): книга, написана Роулінг."
+  },
+  {
+    "id": 312,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "I’m sorry, I can’t come. I’ve (70) _______ out of money this month.",
+    "question": "Choose the correct variant for (70):",
+    "options": {
+      "A": "gone",
+      "B": "run",
+      "C": "walked",
+      "D": "made"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'run out of' — закінчуватися (про гроші, час, ресурси)."
+  },
+  {
+    "id": 313,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "Neither of the candidates (50) _______ enough experience for the position.",
+    "question": "Choose the correct variant for (50):",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is having",
+      "D": "to have"
+    },
+    "correct_answer": "A",
+    "explanation": "Займенник 'neither' вимагає дієслова в однині ('has')."
+  },
+  {
+    "id": 314,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "The Great Barrier Reef is the world's largest coral reef system. It is so large that it can be seen from outer space. However, it is currently threatened by rising ocean temperatures.",
+    "question": "What is the main threat to the Great Barrier Reef?",
+    "options": {
+      "A": "Overfishing in the area.",
+      "B": "Pollution from large ships.",
+      "C": "The warming of the sea water.",
+      "D": "Too many tourists visiting the reef."
+    },
+    "correct_answer": "C",
+    "explanation": "'Rising ocean temperatures' означає потепління морської води."
+  },
+  {
+    "id": 315,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "She (54) _______ for this company since she graduated from university.",
+    "question": "Choose the correct variant for (54):",
+    "options": {
+      "A": "works",
+      "B": "is working",
+      "C": "has been working",
+      "D": "worked"
+    },
+    "correct_answer": "C",
+    "explanation": "Дія, що почалася в минулому і триває досі (маркер 'since') — Present Perfect Continuous."
+  },
+  {
+    "id": 316,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "You should (71) _______ advantage of the free courses offered online.",
+    "question": "Choose the correct variant for (71):",
+    "options": {
+      "A": "make",
+      "B": "do",
+      "C": "take",
+      "D": "get"
+    },
+    "correct_answer": "C",
+    "explanation": "Сталий вираз 'take advantage of' — скористатися можливістю/перевагою."
+  },
+  {
+    "id": 317,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I would rather (51) _______ at home than go to the party tonight.",
+    "question": "Choose the correct variant for (51):",
+    "options": {
+      "A": "stay",
+      "B": "to stay",
+      "C": "staying",
+      "D": "stayed"
+    },
+    "correct_answer": "A",
+    "explanation": "Після 'would rather' вживається 'bare infinitive' (інфінітив без 'to')."
+  },
+  {
+    "id": 318,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "Language Exchange Club: Practice your speaking skills with native speakers in a relaxed environment. No formal lessons, just conversation over coffee.",
+    "question": "What happens during the club meetings?",
+    "options": {
+      "A": "Students take grammar exams.",
+      "B": "Teachers give long lectures.",
+      "C": "People talk to each other to practice.",
+      "D": "Participants write essays in English."
+    },
+    "correct_answer": "C",
+    "explanation": "'Conversation over coffee' та 'practice speaking' вказують на спілкування."
+  },
+  {
+    "id": 319,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The teacher let the students (55) _______ their dictionaries during the test.",
+    "question": "Choose the correct variant for (55):",
+    "options": {
+      "A": "use",
+      "B": "to use",
+      "C": "using",
+      "D": "used"
+    },
+    "correct_answer": "A",
+    "explanation": "Після дієслова 'let' використовується інфінітив без частки 'to'."
+  },
+  {
+    "id": 320,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "He (72) _______ to be the best player in the team, but he lost the final.",
+    "question": "Choose the correct variant for (72):",
+    "options": {
+      "A": "claimed",
+      "B": "told",
+      "C": "shouted",
+      "D": "suggested"
+    },
+    "correct_answer": "A",
+    "explanation": "'Claimed' (стверджував/претендував) найкраще пасує за змістом."
+  },
+  {
+    "id": 321,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "It’s high time we (52) _______ something to save the environment.",
+    "question": "Choose the correct variant for (52):",
+    "options": {
+      "A": "do",
+      "B": "did",
+      "C": "done",
+      "D": "to do"
+    },
+    "correct_answer": "B",
+    "explanation": "Після конструкції 'It's high time' вживається Past Simple."
+  },
+  {
+    "id": 322,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "Mount Everest is the highest mountain on Earth. Every year, hundreds of climbers try to reach the summit, but the extreme weather and lack of oxygen make it a dangerous journey.",
+    "question": "What makes climbing Mount Everest difficult?",
+    "options": {
+      "A": "It is too expensive to climb.",
+      "B": "There are no professional guides.",
+      "C": "Severe climate and breathing problems.",
+      "D": "The path to the top is too short."
+    },
+    "correct_answer": "C",
+    "explanation": "'Extreme weather' (суворий клімат) та 'lack of oxygen' (проблеми з диханням через брак кисню)."
+  },
+  {
+    "id": 323,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The pizza (56) _______ to our house in less than thirty minutes.",
+    "question": "Choose the correct variant for (56):",
+    "options": {
+      "A": "delivered",
+      "B": "was delivered",
+      "C": "is delivering",
+      "D": "has delivered"
+    },
+    "correct_answer": "B",
+    "explanation": "Passive Voice: піца була доставлена."
+  },
+  {
+    "id": 324,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "She decided to (73) _______ up a new hobby: painting with watercolors.",
+    "question": "Choose the correct variant for (73):",
+    "options": {
+      "A": "make",
+      "B": "take",
+      "C": "get",
+      "D": "put"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'take up' — почати займатися чимось (хобі)."
+  },
+  {
+    "id": 325,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I have (53) _______ friends in London, so I never feel lonely there.",
+    "question": "Choose the correct variant for (53):",
+    "options": {
+      "A": "few",
+      "B": "a few",
+      "C": "little",
+      "D": "a little"
+    },
+    "correct_answer": "B",
+    "explanation": "'A few' (декілька) має позитивне значення (мені достатньо, щоб не бути самотнім)."
+  },
+  {
+    "id": 326,
+    "type": "Reading (Task 1)",
+    "year": 2024,
+    "text": "STORE POLICY: Customers can return items within 30 days of purchase for a full refund. The original receipt must be presented.",
+    "question": "What is required to get your money back for a product?",
+    "options": {
+      "A": "A personal recommendation.",
+      "B": "Proof of payment.",
+      "C": "The original packaging only.",
+      "D": "A valid passport."
+    },
+    "correct_answer": "B",
+    "explanation": "'Original receipt' (чек) — це підтвердження оплати (proof of payment)."
+  },
+  {
+    "id": 327,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "By the end of this month, I (57) _______ my driving course.",
+    "question": "Choose the correct variant for (57):",
+    "options": {
+      "A": "will finish",
+      "B": "will be finishing",
+      "C": "will have finished",
+      "D": "have finished"
+    },
+    "correct_answer": "C",
+    "explanation": "Future Perfect: дія завершиться до певного моменту в майбутньому."
+  },
+  {
+    "id": 328,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The government is trying to (74) _______ the gap between the rich and the poor.",
+    "question": "Choose the correct variant for (74):",
+    "options": {
+      "A": "close",
+      "B": "bridge",
+      "C": "cross",
+      "D": "fill"
+    },
+    "correct_answer": "B",
+    "explanation": "Сталий вираз 'bridge the gap' — подолати розрив/прірву (метафорично)."
+  },
+  {
+    "id": 329,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "This is the most (54) _______ book I have ever read.",
+    "question": "Choose the correct variant for (54):",
+    "options": {
+      "A": "interest",
+      "B": "interested",
+      "C": "interesting",
+      "D": "interestingly"
+    },
+    "correct_answer": "C",
+    "explanation": "Прикметник на -ing описує властивість предмета (книжка цікава)."
+  },
+  {
+    "id": 330,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Eco-Friendly Living: Start by reducing your waste. Compost your food scraps and avoid plastic packaging. Small changes in your kitchen can help the entire planet.",
+    "question": "What is a suggested way to help the environment?",
+    "options": {
+      "A": "Eating only in restaurants.",
+      "B": "Buying more plastic items.",
+      "C": "Recycling organic waste.",
+      "D": "Cooking less food."
+    },
+    "correct_answer": "C",
+    "explanation": "'Compost food scraps' (компостування залишків їжі) — це переробка органіки."
+  },
+  {
+    "id": 331,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "If I (58) _______ you, I wouldn't lend him any more money.",
+    "question": "Choose the correct variant for (58):",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "C",
+    "explanation": "Second Conditional для поради: 'If I were you'."
+  },
+  {
+    "id": 332,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The witness (75) _______ to tell the truth in court.",
+    "question": "Choose the correct variant for (75):",
+    "options": {
+      "A": "promised",
+      "B": "suggested",
+      "C": "offered",
+      "D": "denied"
+    },
+    "correct_answer": "A",
+    "explanation": "'Promised' (пообіцяв) найкраще відповідає контексту суду."
+  },
+  {
+    "id": 333,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "She went to the library (55) _______ some research for her project.",
+    "question": "Choose the correct variant for (55):",
+    "options": {
+      "A": "for doing",
+      "B": "to do",
+      "C": "do",
+      "D": "done"
+    },
+    "correct_answer": "B",
+    "explanation": "Infinitive of purpose (інфінітив мети): пішла, щоб зробити."
+  },
+  {
+    "id": 334,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Alexander Fleming discovered penicillin by accident in 1928. He noticed that a mold in one of his petri dishes had killed the surrounding bacteria, leading to the first antibiotic.",
+    "question": "How was penicillin discovered?",
+    "options": {
+      "A": "After years of planned experiments.",
+      "B": "Through an unexpected observation.",
+      "C": "By buying it from another scientist.",
+      "D": "By studying ancient medical books."
+    },
+    "correct_answer": "B",
+    "explanation": "'By accident' (випадково) та 'noticed' (помітив) відповідає варіанту про неочікуване спостереження."
+  },
+  {
+    "id": 335,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The results of the competition (59) _______ next Monday.",
+    "question": "Choose the correct variant for (59):",
+    "options": {
+      "A": "announce",
+      "B": "will announce",
+      "C": "will be announced",
+      "D": "are announced"
+    },
+    "correct_answer": "C",
+    "explanation": "Future Simple Passive: результати будуть оголошені."
+  },
+  {
+    "id": 336,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Marie Curie was the first person to win two Nobel Prizes in different scientific fields: Physics and Chemistry. Her research on radioactivity was groundbreaking, though it eventually led to her illness due to prolonged exposure to radiation.",
+    "question": "What is true about Marie Curie’s career?",
+    "options": {
+      "A": "She won two prizes in the same category.",
+      "B": "She was recognized in two distinct areas of science.",
+      "C": "She avoided working with dangerous materials.",
+      "D": "She never received international recognition."
+    },
+    "correct_answer": "B",
+    "explanation": "Фраза 'two Nobel Prizes in different scientific fields' підтверджує, що вона була визнана у двох різних галузях."
+  },
+  {
+    "id": 337,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "I can’t find my phone anywhere. I (46) _______ it at the office.",
+    "question": "Choose the correct variant for (46):",
+    "options": {
+      "A": "must leave",
+      "B": "must have left",
+      "C": "should leave",
+      "D": "ought to leave"
+    },
+    "correct_answer": "B",
+    "explanation": "Припущення щодо минулого з високою впевненістю: must + have + V3."
+  },
+  {
+    "id": 338,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The price of the tour (76) _______ all meals and accommodation.",
+    "options": {
+      "A": "contains",
+      "B": "includes",
+      "C": "consists",
+      "D": "holds"
+    },
+    "correct_answer": "B",
+    "explanation": "'Includes' (включає) використовується для переліку частин цілого."
+  },
+  {
+    "id": 339,
+    "type": "Use of English (Task 6)",
+    "year": 2024,
+    "text": "He is much (47) _______ at math than his older brother.",
+    "question": "Choose the correct variant for (47):",
+    "options": {
+      "A": "good",
+      "B": "better",
+      "C": "best",
+      "D": "the best"
+    },
+    "correct_answer": "B",
+    "explanation": "Порівняльний ступінь прикметника 'good' — 'better'. Слово 'much' посилює порівняння."
+  },
+  {
+    "id": 340,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "Online Security Tip: Use a combination of letters, numbers, and symbols for your passwords. Change them every few months and never use the same password for multiple accounts.",
+    "question": "What is the advice for keeping accounts safe?",
+    "options": {
+      "A": "Write passwords on a piece of paper.",
+      "B": "Create complex and unique passwords.",
+      "C": "Use your birth date as a password.",
+      "D": "Keep the same password for many years."
+    },
+    "correct_answer": "B",
+    "explanation": "Поєднання літер, цифр і символів означає складність (complex), а використання різних паролів — унікальність (unique)."
+  },
+  {
+    "id": 341,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The children were (48) _______ to bed early so they wouldn't be tired the next day.",
+    "question": "Choose the correct variant for (48):",
+    "options": {
+      "A": "send",
+      "B": "sent",
+      "C": "sending",
+      "D": "sends"
+    },
+    "correct_answer": "B",
+    "explanation": "Passive Voice (Past Simple): дітей відправили спати."
+  },
+  {
+    "id": 342,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The new law will (77) _______ into effect starting next month.",
+    "question": "Choose the correct variant for (77):",
+    "options": {
+      "A": "go",
+      "B": "come",
+      "C": "get",
+      "D": "run"
+    },
+    "correct_answer": "B",
+    "explanation": "Сталий вираз 'come into effect' — вступати в силу (про закон)."
+  },
+  {
+    "id": 343,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I don't like this coffee. I'd like (49) _______ cup, please.",
+    "question": "Choose the correct variant for (49):",
+    "options": {
+      "A": "other",
+      "B": "another",
+      "C": "others",
+      "D": "the others"
+    },
+    "correct_answer": "B",
+    "explanation": "'Another' використовується з одниною у значенні 'ще один такий самий'."
+  },
+  {
+    "id": 344,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "CITY TOUR: Departs every hour from the Main Square. Duration: 90 minutes. Tickets available on the bus. Cash only.",
+    "question": "How can you pay for the tour?",
+    "options": {
+      "A": "By credit card online.",
+      "B": "With banknotes and coins on the spot.",
+      "C": "Using a mobile app.",
+      "D": "At the city hall building."
+    },
+    "correct_answer": "B",
+    "explanation": "'Cash only' означає оплату готівкою (banknotes and coins)."
+  },
+  {
+    "id": 345,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "By the time the guest arrived, the dinner (50) _______.",
+    "question": "Choose the correct variant for (50):",
+    "options": {
+      "A": "prepared",
+      "B": "was prepared",
+      "C": "had been prepared",
+      "D": "has been prepared"
+    },
+    "correct_answer": "C",
+    "explanation": "Past Perfect Passive: дія завершилася раніше іншої події в минулому."
+  },
+  {
+    "id": 346,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "She has a very (78) _______ schedule, so she rarely has time to relax.",
+    "options": {
+      "A": "tight",
+      "B": "strong",
+      "C": "heavy",
+      "D": "thick"
+    },
+    "correct_answer": "A",
+    "explanation": "Сталий вираз 'tight schedule' — щільний графік."
+  },
+  {
+    "id": 347,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "If you (51) _______ the instructions, you wouldn't have made so many mistakes.",
+    "question": "Choose the correct variant for (51):",
+    "options": {
+      "A": "follow",
+      "B": "followed",
+      "C": "had followed",
+      "D": "would follow"
+    },
+    "correct_answer": "C",
+    "explanation": "Third Conditional (умова щодо минулого): If + Past Perfect."
+  },
+  {
+    "id": 348,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Dolphins use echolocation to navigate and hunt. They emit sound waves that bounce off objects, allowing them to determine the size, shape, and distance of things around them.",
+    "question": "How does echolocation help dolphins?",
+    "options": {
+      "A": "It helps them communicate with humans.",
+      "B": "It allows them to see in the dark using light.",
+      "C": "It provides information about their surroundings.",
+      "D": "It makes them swim faster than sharks."
+    },
+    "correct_answer": "C",
+    "explanation": "Визначення розміру, форми та відстані об'єктів — це інформація про оточення (surroundings)."
+  },
+  {
+    "id": 349,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The teacher suggested (52) _______ the text once more before answering.",
+    "question": "Choose the correct variant for (52):",
+    "options": {
+      "A": "read",
+      "B": "to read",
+      "C": "reading",
+      "D": "reads"
+    },
+    "correct_answer": "C",
+    "explanation": "Після 'suggest' вживаємо герундій (V-ing)."
+  },
+  {
+    "id": 350,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The company’s profits have (79) _______ significantly this year.",
+    "options": {
+      "A": "raised",
+      "B": "risen",
+      "C": "lifted",
+      "D": "arisen"
+    },
+    "correct_answer": "B",
+    "explanation": "'Rise - rose - risen' (підніматися) — неперехідне дієслово, підходить для прибутків."
+  },
+  {
+    "id": 351,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I’m looking forward to (53) _______ you at the conference.",
+    "question": "Choose the correct variant for (53):",
+    "options": {
+      "A": "see",
+      "B": "seeing",
+      "C": "to see",
+      "D": "saw"
+    },
+    "correct_answer": "B",
+    "explanation": "Конструкція 'look forward to' завжди потребує герундія."
+  },
+  {
+    "id": 352,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "Healthy Sleep Tips: Avoid using screens an hour before bed. Keep your room cool and dark. Try to go to sleep and wake up at the same time every day, even on weekends.",
+    "question": "What is a recommendation for better sleep quality?",
+    "options": {
+      "A": "Sleeping until noon on Saturdays.",
+      "B": "Having a consistent daily routine.",
+      "C": "Watching a movie right before sleeping.",
+      "D": "Keeping the bedroom very warm."
+    },
+    "correct_answer": "B",
+    "explanation": "'Same time every day' — це стабільний розпорядок (consistent routine)."
+  },
+  {
+    "id": 353,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The person (54) _______ is sitting next to the window is my cousin.",
+    "question": "Choose the correct variant for (54):",
+    "options": {
+      "A": "which",
+      "B": "who",
+      "C": "whose",
+      "D": "whom"
+    },
+    "correct_answer": "B",
+    "explanation": "Відносний займенник 'who' для людей у ролі підмета."
+  },
+  {
+    "id": 354,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "I need to (80) _______ my mind about which university to choose.",
+    "question": "Choose the correct variant for (80):",
+    "options": {
+      "A": "do up",
+      "B": "make up",
+      "C": "take up",
+      "D": "get up"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'make up one's mind' — прийняти рішення."
+  },
+  {
+    "id": 355,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "This film is (55) _______ more interesting than the one we saw yesterday.",
+    "question": "Choose the correct variant for (55):",
+    "options": {
+      "A": "very",
+      "B": "far",
+      "C": "more",
+      "D": "too"
+    },
+    "correct_answer": "B",
+    "explanation": "'Far' (так само як 'much' або 'a lot') використовується для підсилення порівняльного ступеня."
+  },
+  {
+    "id": 356,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "The Mona Lisa is famous not only for its artistic technique but also for the mystery surrounding the subject's identity and her subtle smile, which seems to change depending on the angle.",
+    "question": "What contributes to the fame of the Mona Lisa?",
+    "options": {
+      "A": "It is the largest painting in the world.",
+      "B": "The uncertainty about the woman's identity.",
+      "C": "The fact that it was painted in just one day.",
+      "D": "It was the first painting to use oil colors."
+    },
+    "correct_answer": "B",
+    "explanation": "Текст згадує 'mystery surrounding the subject's identity' (таємниця особистості)."
+  },
+  {
+    "id": 357,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The car (56) _______ is being repaired belonged to my grandfather.",
+    "question": "Choose the correct variant for (56):",
+    "options": {
+      "A": "who",
+      "B": "whose",
+      "C": "which",
+      "D": "where"
+    },
+    "correct_answer": "C",
+    "explanation": "Відносний займенник 'which' для предметів."
+  },
+  {
+    "id": 358,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "He (81) _______ a living by writing articles for travel magazines.",
+    "options": {
+      "A": "does",
+      "B": "gets",
+      "C": "earns",
+      "D": "wins"
+    },
+    "correct_answer": "C",
+    "explanation": "Сталий вираз 'earn a living' (заробляти на життя). Також можливе 'make a living'."
+  },
+  {
+    "id": 359,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I wish I (57) _______ more attention in class last semester.",
+    "question": "Choose the correct variant for (57):",
+    "options": {
+      "A": "paid",
+      "B": "had paid",
+      "C": "would pay",
+      "D": "have paid"
+    },
+    "correct_answer": "B",
+    "explanation": "Жаль про минуле після 'wish' виражається через Past Perfect."
+  },
+  {
+    "id": 360,
+    "type": "Reading (Task 1)",
+    "year": 2024,
+    "text": "TRAIN DELAY: The 10:15 service to Manchester is delayed by 20 minutes due to engineering works. We apologize for any inconvenience.",
+    "question": "When will the train to Manchester likely depart?",
+    "options": {
+      "A": "At 10:15.",
+      "B": "At 10:35.",
+      "C": "At 10:55.",
+      "D": "At 11:00."
+    },
+    "correct_answer": "B",
+    "explanation": "10:15 + 20 хвилин затримки = 10:35."
+  },
+  {
+    "id": 361,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "Not only (58) _______ she a great singer, but she also plays three instruments.",
+    "question": "Choose the correct variant for (58):",
+    "options": {
+      "A": "is",
+      "B": "does",
+      "C": "has",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": "Інверсія після 'Not only'. Оскільки далі йде прикметник 'singer' (іменник з прикметником), потрібне дієслово 'to be'."
+  },
+  {
+    "id": 362,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "I’m (82) _______ with this old phone; it keeps crashing!",
+    "question": "Choose the correct variant for (82):",
+    "options": {
+      "A": "fed up",
+      "B": "broken down",
+      "C": "set up",
+      "D": "given in"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'fed up with' — бути ситим по горло чимось."
+  },
+  {
+    "id": 363,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "The faster you drive, (59) _______ dangerous it becomes.",
+    "question": "Choose the correct variant for (59):",
+    "options": {
+      "A": "the more",
+      "B": "more",
+      "C": "most",
+      "D": "the most"
+    },
+    "correct_answer": "A",
+    "explanation": "Подвійне порівняння: The + comparative..., the + comparative..."
+  },
+  {
+    "id": 364,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "Cooking Workshop: Learn to prepare authentic Italian pasta from scratch. Ingredients are included in the price. Please bring an apron.",
+    "question": "What should participants take with them?",
+    "options": {
+      "A": "Their own pasta.",
+      "B": "Protective clothing for cooking.",
+      "C": "Money for ingredients.",
+      "D": "Italian recipes."
+    },
+    "correct_answer": "B",
+    "explanation": "'Apron' (фартух) — це захисний одяг для готування."
+  },
+  {
+    "id": 365,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The house (60) _______ since last year, and it looks beautiful now.",
+    "question": "Choose the correct variant for (60):",
+    "options": {
+      "A": "was renovated",
+      "B": "has been renovated",
+      "C": "is being renovated",
+      "D": "had been renovated"
+    },
+    "correct_answer": "B",
+    "explanation": "Present Perfect Passive: дія завершилася до теперішнього моменту (маркер 'since')."
+  },
+  {
+    "id": 366,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The movie was (41) _______ than I expected, so I almost fell asleep.",
+    "question": "Choose the correct variant for (41):",
+    "options": {
+      "A": "boring",
+      "B": "bored",
+      "C": "more boring",
+      "D": "most boring"
+    },
+    "correct_answer": "C",
+    "explanation": "Порівняльний ступінь для багатоскладового прикметника — more + adjective."
+  },
+  {
+    "id": 367,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "I can’t (83) _______ why she decided to quit such a well-paid job.",
+    "question": "Choose the correct variant for (83):",
+    "options": {
+      "A": "figure out",
+      "B": "look out",
+      "C": "take out",
+      "D": "bring out"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'figure out' означає 'зрозуміти/збагнути'."
+  },
+  {
+    "id": 368,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Emotional intelligence (EQ) is the ability to understand and manage your own emotions, as well as recognize those of others. People with high EQ often perform better in leadership roles and work more effectively in teams.",
+    "question": "What is a benefit of having a high level of EQ?",
+    "options": {
+      "A": "It helps in learning mathematical formulas.",
+      "B": "It improves cooperation with other people.",
+      "C": "It guarantees a high physical strength.",
+      "D": "It is only useful for professional athletes."
+    },
+    "correct_answer": "B",
+    "explanation": "'Work effectively in teams' прямо вказує на покращення співпраці (cooperation)."
+  },
+  {
+    "id": 369,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "They (42) _______ have gone to the beach; the car is still in the garage.",
+    "question": "Choose the correct variant for (42):",
+    "options": {
+      "A": "must",
+      "B": "can't",
+      "C": "should",
+      "D": "may"
+    },
+    "correct_answer": "B",
+    "explanation": "Can't + have + V3 виражає впевненість у тому, що дія в минулому НЕ відбулася."
+  },
+  {
+    "id": 370,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "If you want to lose weight, you should (84) _______ down on sugary snacks.",
+    "question": "Choose the correct variant for (84):",
+    "options": {
+      "A": "cut",
+      "B": "put",
+      "C": "get",
+      "D": "break"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'cut down on' означає 'зменшити споживання чогось'."
+  },
+  {
+    "id": 371,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Time Management App: Track your daily tasks and set reminders. Analyze how much time you spend on different activities. Sync your data across all your devices for free.",
+    "question": "What is one of the features of this application?",
+    "options": {
+      "A": "It helps you find a new job.",
+      "B": "It gives you more time in a day.",
+      "C": "It provides reports on your time usage.",
+      "D": "It costs a lot of money to synchronize."
+    },
+    "correct_answer": "C",
+    "explanation": "'Analyze how much time you spend' — це і є звіт про використання часу (reports on time usage)."
+  },
+  {
+    "id": 372,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "I’ll lend you the money provided you (43) _______ it back next week.",
+    "question": "Choose the correct variant for (43):",
+    "options": {
+      "A": "pay",
+      "B": "will pay",
+      "C": "paid",
+      "D": "paying"
+    },
+    "correct_answer": "A",
+    "explanation": "Після сполучників умови (if, provided, as long as) у майбутньому часі використовується Present Simple."
+  },
+  {
+    "id": 373,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The witness provided a very (85) _______ description of the suspect.",
+    "options": {
+      "A": "detailed",
+      "B": "long",
+      "C": "wide",
+      "D": "broad"
+    },
+    "correct_answer": "A",
+    "explanation": "'Detailed description' (детальний опис) — найбільш природне поєднання слів."
+  },
+  {
+    "id": 374,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "Hardly (44) _______ the office when it started to rain heavily.",
+    "question": "Choose the correct variant for (44):",
+    "options": {
+      "A": "I left",
+      "B": "had I left",
+      "C": "did I leave",
+      "D": "I had left"
+    },
+    "correct_answer": "B",
+    "explanation": "Інверсія після 'Hardly'. Використовуємо конструкцію: Hardly + had + Subject + V3."
+  },
+  {
+    "id": 375,
+    "type": "Reading (Task 1)",
+    "year": 2024,
+    "text": "GARDEN CENTER: Plants 50% off this weekend! Bring your own bags to help us reduce plastic waste. Open from 8 AM to 6 PM.",
+    "question": "What is the center’s policy on packaging?",
+    "options": {
+      "A": "They provide free plastic bags.",
+      "B": "They charge extra for paper bags.",
+      "C": "They encourage customers to use their own carriers.",
+      "D": "They don't sell any large plants."
+    },
+    "correct_answer": "C",
+    "explanation": "'Bring your own bags' — заклик використовувати власні сумки (carriers)."
+  },
+  {
+    "id": 376,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The report (45) _______ by the marketing team right now.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "is prepared",
+      "B": "is being prepared",
+      "C": "prepares",
+      "D": "was prepared"
+    },
+    "correct_answer": "B",
+    "explanation": "Present Continuous Passive: дія відбувається в момент мовлення."
+  },
+  {
+    "id": 377,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "He always (86) _______ the truth, even when it’s difficult.",
+    "question": "Choose the correct variant for (86):",
+    "options": {
+      "A": "says",
+      "B": "tells",
+      "C": "speaks",
+      "D": "talks"
+    },
+    "correct_answer": "B",
+    "explanation": "Сталий вираз 'tell the truth' (казати правду)."
+  },
+  {
+    "id": 378,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "It’s no use (46) _______ about things you cannot change.",
+    "question": "Choose the correct variant for (46):",
+    "options": {
+      "A": "worry",
+      "B": "to worry",
+      "C": "worrying",
+      "D": "worried"
+    },
+    "correct_answer": "C",
+    "explanation": "Після конструкції 'It's no use' (немає сенсу) завжди вживається герундій."
+  },
+  {
+    "id": 379,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "The Great Fire of London in 1666 destroyed much of the city, but it also had an unexpected benefit: it helped stop the Great Plague by killing the rats that carried the disease.",
+    "question": "What was a positive consequence of the Great Fire of London?",
+    "options": {
+      "A": "It allowed for the building of more wooden houses.",
+      "B": "It contributed to the end of a dangerous epidemic.",
+      "C": "It made the city much larger than before.",
+      "D": "It created many new jobs for firemen."
+    },
+    "correct_answer": "B",
+    "explanation": "'Stopped the Great Plague' — зупинка епідемії чуми (epidemic)."
+  },
+  {
+    "id": 380,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "I’m very tired. I (47) _______ since 7 o'clock this morning.",
+    "question": "Choose the correct variant for (47):",
+    "options": {
+      "A": "work",
+      "B": "am working",
+      "C": "have been working",
+      "D": "worked"
+    },
+    "correct_answer": "C",
+    "explanation": "Тривала дія, що почалася в минулому і має результат зараз — Present Perfect Continuous."
+  },
+  {
+    "id": 381,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The athlete was (87) _______ from the race for using banned substances.",
+    "question": "Choose the correct variant for (87):",
+    "options": {
+      "A": "disqualified",
+      "B": "stopped",
+      "C": "removed",
+      "D": "checked"
+    },
+    "correct_answer": "A",
+    "explanation": "'Disqualified' (дискваліфікований) — спеціальний термін для спорту при порушенні правил."
+  },
+  {
+    "id": 382,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "The news (48) _______ not as bad as we had expected.",
+    "question": "Choose the correct variant for (48):",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "be",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "explanation": "Слово 'news' — це незлічуваний іменник, що вживається лише в однині."
+  },
+  {
+    "id": 383,
+    "type": "Reading (Matching)",
+    "year": 2025,
+    "text": "City Library Policy: Books can be borrowed for 21 days. You can renew your loan twice if no one else has reserved the book. Late returns are subject to a small fine.",
+    "question": "When can you keep a library book for a longer period?",
+    "options": {
+      "A": "If you pay a fine in advance.",
+      "B": "If other readers are not waiting for it.",
+      "C": "Only if the book is very old.",
+      "D": "Every time you visit the library."
+    },
+    "correct_answer": "B",
+    "explanation": "'If no one else has reserved it' означає, що на книгу немає черги від інших читачів."
+  },
+  {
+    "id": 384,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "The Babylonian New Year began with the first visible new moon after the spring equinox. It was a massive 11-day festival called Akitu. During this time, people made promises to their gods to return borrowed objects and pay their debts.",
+    "question": "What was the original purpose of resolutions in Ancient Babylon?",
+    "options": {
+      "A": "To celebrate the harvest season.",
+      "B": "To settle personal obligations to others and gods.",
+      "C": "To choose a new king for the city.",
+      "D": "To travel to distant lands for trade."
+    },
+    "correct_answer": "B",
+    "explanation": "Повернення боргів ('pay debts') та речей ('return borrowed objects') — це виконання зобов'язань."
+  },
+  {
+    "id": 385,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "The children were very (41) _______ about the trip to the zoo.",
+    "question": "Choose the correct variant for (41):",
+    "options": {
+      "A": "excite",
+      "B": "exciting",
+      "C": "excited",
+      "D": "excitedly"
+    },
+    "correct_answer": "C",
+    "explanation": "Прикметник на -ed описує почуття людини (діти були захоплені)."
+  },
+  {
+    "id": 386,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "You shouldn't (63) _______ fun of your classmates; it’s disrespectful.",
+    "question": "Choose the correct variant for (63):",
+    "options": {
+      "A": "make",
+      "B": "do",
+      "C": "take",
+      "D": "give"
+    },
+    "correct_answer": "A",
+    "explanation": "Стала колокація 'make fun of' — насміхатися з когось."
+  },
+  {
+    "id": 387,
+    "type": "Use of English (Task 6)",
+    "year": 2023,
+    "text": "I’ll call you as soon as I (45) _______ at the station.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "will arrive",
+      "B": "arrive",
+      "C": "arrived",
+      "D": "am arriving"
+    },
+    "correct_answer": "B",
+    "explanation": "У підрядних реченнях часу (as soon as, when) майбутній час замінюється на Present Simple."
+  },
+  {
+    "id": 388,
+    "type": "Reading (Matching)",
+    "year": 2023,
+    "text": "Job Advertisement: Looking for a part-time waiter. Experience is preferred but not essential. Must be available to work weekends and late shifts. Free meals included.",
+    "question": "What is a requirement for this job?",
+    "options": {
+      "A": "At least 5 years of experience.",
+      "B": "Having a car to get home late.",
+      "C": "Willingness to work in the evenings.",
+      "D": "Being a professional chef."
+    },
+    "correct_answer": "C",
+    "explanation": "'Late shifts' означає роботу у вечірній/нічний час."
+  },
+  {
+    "id": 389,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "This is (42) _______ expensive hotel in the city.",
+    "question": "Choose the correct variant for (42):",
+    "options": {
+      "A": "the most",
+      "B": "more",
+      "C": "as",
+      "D": "much"
+    },
+    "correct_answer": "A",
+    "explanation": "Найвищий ступінь порівняння прикметників (Superlative)."
+  },
+  {
+    "id": 390,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I need to (64) _______ an appointment with the dentist.",
+    "question": "Choose the correct variant for (64):",
+    "options": {
+      "A": "do",
+      "B": "make",
+      "C": "get",
+      "D": "take"
+    },
+    "correct_answer": "B",
+    "explanation": "Стала колокація 'make an appointment' — записатися на прийом."
+  },
+  {
+    "id": 391,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "In the United States, jeans became a symbol of youth rebellion in the 1950s. Schools often banned them, which only made them more popular among teenagers who wanted to challenge traditional rules.",
+    "question": "Why did jeans become popular among teenagers in the 1950s?",
+    "options": {
+      "A": "Because they were very cheap to buy.",
+      "B": "Because they represented a fight against authority.",
+      "C": "Because they were required for physical work.",
+      "D": "Because famous scientists wore them."
+    },
+    "correct_answer": "B",
+    "explanation": "'Symbol of rebellion' (символ бунту) та 'challenge traditional rules' вказує на протистояння авторитетам."
+  },
+  {
+    "id": 392,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "If it (43) _______ tomorrow, the match will be cancelled.",
+    "question": "Choose the correct variant for (43):",
+    "options": {
+      "A": "rains",
+      "B": "will rain",
+      "C": "rain",
+      "D": "is raining"
+    },
+    "correct_answer": "A",
+    "explanation": "First Conditional: If + Present Simple, Future Simple."
+  },
+  {
+    "id": 393,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The plane took (65) _______ on time despite the heavy fog.",
+    "question": "Choose the correct variant for (65):",
+    "options": {
+      "A": "up",
+      "B": "off",
+      "C": "in",
+      "D": "away"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'take off' — злітати (про літак)."
+  },
+  {
+    "id": 394,
+    "type": "Use of English (Task 6)",
+    "year": 2023,
+    "text": "I’m not interested (46) _______ watching horror movies.",
+    "question": "Choose the correct variant for (46):",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "in",
+      "D": "with"
+    },
+    "correct_answer": "C",
+    "explanation": "Прикметник 'interested' завжди вживається з прийменником 'in'."
+  },
+  {
+    "id": 395,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "LIBRARY NOTICE: Quiet study area. No food or drinks allowed except bottled water. Please keep your phone on silent mode.",
+    "question": "What can you bring into the study area?",
+    "options": {
+      "A": "A cup of coffee.",
+      "B": "A bottle of mineral water.",
+      "C": "A small snack.",
+      "D": "A loud alarm clock."
+    },
+    "correct_answer": "B",
+    "explanation": "'Except bottled water' дозволяє лише воду в пляшках."
+  },
+  {
+    "id": 396,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "We (44) _______ each other for more than ten years.",
+    "question": "Choose the correct variant for (44):",
+    "options": {
+      "A": "know",
+      "B": "are knowing",
+      "C": "have known",
+      "D": "have been knowing"
+    },
+    "correct_answer": "C",
+    "explanation": "Дієслово 'know' (статичне) не вживається в Continuous. Використовуємо Present Perfect для тривалості до тепер."
+  },
+  {
+    "id": 397,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I’m sorry, I can’t hear you. Could you (66) _______ up a bit?",
+    "question": "Choose the correct variant for (66):",
+    "options": {
+      "A": "speak",
+      "B": "talk",
+      "C": "say",
+      "D": "tell"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'speak up' — говорити голосніше."
+  },
+  {
+    "id": 398,
+    "type": "Use of English (Task 6)",
+    "year": 2023,
+    "text": "She is (47) _______ older than she looks.",
+    "question": "Choose the correct variant for (47):",
+    "options": {
+      "A": "very",
+      "B": "much",
+      "C": "more",
+      "D": "too"
+    },
+    "correct_answer": "B",
+    "explanation": "Для підсилення порівняльного ступеня (older) використовується 'much'."
+  },
+  {
+    "id": 399,
+    "type": "Reading (Matching)",
+    "year": 2023,
+    "text": "Museum of Science: Interactive exhibits for all ages. Discover how electricity works and build your own robot. Discounted tickets for groups of 10 or more.",
+    "question": "What is a benefit for large groups?",
+    "options": {
+      "A": "A free guided tour.",
+      "B": "A lower price per person.",
+      "C": "Access to a private robot lab.",
+      "D": "Free lunch at the cafe."
+    },
+    "correct_answer": "B",
+    "explanation": "'Discounted tickets' — це квитки за зниженою ціною."
+  },
+  {
+    "id": 400,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "The letters (45) _______ by the secretary every morning.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "write",
+      "B": "are written",
+      "C": "are writing",
+      "D": "were written"
+    },
+    "correct_answer": "B",
+    "explanation": "Present Simple Passive для регулярної дії."
+  },
+  {
+    "id": 401,
+    "type": "Grammar (Task 6)",
+    "year": 2023,
+    "text": "When I was a child, I (41) _______ spend every summer at my grandparents' farm.",
+    "question": "Choose the correct variant for (41):",
+    "options": {
+      "A": "use to",
+      "B": "used to",
+      "C": "was used to",
+      "D": "get used to"
+    },
+    "correct_answer": "B",
+    "explanation": "Конструкція 'used to' описує звички або регулярні дії в минулому, які більше не відбуваються."
+  },
+  {
+    "id": 402,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The scientist (63) _______ a discovery that changed the world of medicine.",
+    "question": "Choose the correct variant for (63):",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "found"
+    },
+    "correct_answer": "B",
+    "explanation": "Стала колокація 'make a discovery' — зробити відкриття."
+  },
+  {
+    "id": 403,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Artificial Intelligence is no longer a concept of the future. Today, AI algorithms help doctors diagnose diseases more accurately and even predict weather patterns with high precision, saving thousands of lives.",
+    "question": "How is AI currently being used according to the text?",
+    "options": {
+      "A": "To replace doctors entirely in hospitals.",
+      "B": "To improve the accuracy of medical diagnosis.",
+      "C": "To control the weather and stop storms.",
+      "D": "Only for entertainment and video games."
+    },
+    "correct_answer": "B",
+    "explanation": "Текст прямо каже: 'help doctors diagnose diseases more accurately'."
+  },
+  {
+    "id": 404,
+    "type": "Use of English (Task 6)",
+    "year": 2023,
+    "text": "I’m not (45) _______ to getting up so early in the morning.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "use",
+      "B": "used",
+      "C": "using",
+      "D": "uses"
+    },
+    "correct_answer": "B",
+    "explanation": "Конструкція 'be used to + V-ing' означає 'мати звичку/бути привчиненим до чогось'."
+  },
+  {
+    "id": 405,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "We need to (64) _______ a decision before the end of the day.",
+    "question": "Choose the correct variant for (64):",
+    "options": {
+      "A": "do",
+      "B": "make",
+      "C": "take",
+      "D": "get"
+    },
+    "correct_answer": "B",
+    "explanation": "Стала колокація 'make a decision' — прийняти рішення."
+  },
+  {
+    "id": 406,
+    "type": "Grammar (Task 6)",
+    "year": 2024,
+    "text": "Neither my parents nor my sister (42) _______ to go to the cinema tonight.",
+    "question": "Choose the correct variant for (42):",
+    "options": {
+      "A": "want",
+      "B": "wants",
+      "C": "is wanting",
+      "D": "to want"
+    },
+    "correct_answer": "B",
+    "explanation": "При використанні 'neither... nor' дієслово узгоджується з найближчим іменником (sister — однина, тому 'wants')."
+  },
+  {
+    "id": 407,
+    "type": "Reading (Matching)",
+    "year": 2023,
+    "text": "Volunteer Opportunity: Help clean up the local park this Saturday. Tools and gloves will be provided. Meet at the main entrance at 9 AM. Refreshments available for all participants.",
+    "question": "What will volunteers receive at the event?",
+    "options": {
+      "A": "A small payment for their work.",
+      "B": "New tools to take home.",
+      "C": "Something to eat and drink.",
+      "D": "A certificate for gardening."
+    },
+    "correct_answer": "C",
+    "explanation": "'Refreshments' — це легкі закуски та напої."
+  },
+  {
+    "id": 408,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I have (49) _______ money left, so I can't buy this jacket.",
+    "question": "Choose the correct variant for (49):",
+    "options": {
+      "A": "few",
+      "B": "a few",
+      "C": "little",
+      "D": "a little"
+    },
+    "correct_answer": "C",
+    "explanation": "'Little' з незлічуваними іменниками має негативне значення (майже немає, недостатньо)."
+  },
+  {
+    "id": 409,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The fire (69) _______ out in the middle of the night.",
+    "question": "Choose the correct variant for (69):",
+    "options": {
+      "A": "broke",
+      "B": "took",
+      "C": "put",
+      "D": "set"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'break out' — раптово початися (про пожежу, війну, епідемію)."
+  },
+  {
+    "id": 410,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "SHOP ANNOUNCEMENT: Our fitting rooms are currently closed for renovation. We apologize for the inconvenience. Returns are accepted within 14 days with a receipt.",
+    "question": "What is currently impossible to do in the shop?",
+    "options": {
+      "A": "Buy any clothes.",
+      "B": "Try clothes on before buying.",
+      "C": "Return a product you don't like.",
+      "D": "Pay with a credit card."
+    },
+    "correct_answer": "B",
+    "explanation": "'Fitting rooms are closed' означає, що неможливо приміряти одяг."
+  },
+  {
+    "id": 411,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "I wish I (53) _______ that I had to bring a passport today.",
+    "question": "Choose the correct variant for (53):",
+    "options": {
+      "A": "know",
+      "B": "knew",
+      "C": "had known",
+      "D": "have known"
+    },
+    "correct_answer": "C",
+    "explanation": "Жаль про минуле (I had to bring — минулий час) потребує Past Perfect після 'wish'."
+  },
+  {
+    "id": 412,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "Can you (70) _______ an eye on my bag while I go to the bathroom?",
+    "question": "Choose the correct variant for (70):",
+    "options": {
+      "A": "keep",
+      "B": "hold",
+      "C": "make",
+      "D": "put"
+    },
+    "correct_answer": "A",
+    "explanation": "Ідіома 'keep an eye on' — приглянути за чимось."
+  },
+  {
+    "id": 413,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "He suggested (50) _______ a taxi instead of walking in the rain.",
+    "question": "Choose the correct variant for (50):",
+    "options": {
+      "A": "take",
+      "B": "to take",
+      "C": "taking",
+      "D": "taken"
+    },
+    "correct_answer": "C",
+    "explanation": "Після дієслова 'suggest' використовується герундій (-ing)."
+  },
+  {
+    "id": 414,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "The Olympic Games were originally held in ancient Greece to honor Zeus. During the games, all wars were stopped to allow athletes to travel safely to Olympia.",
+    "question": "What was the rule during the ancient Olympic Games?",
+    "options": {
+      "A": "Only soldiers could participate.",
+      "B": "All conflicts were temporarily paused.",
+      "C": "The games were held in different cities every year.",
+      "D": "Athletes had to pay for their own safety."
+    },
+    "correct_answer": "B",
+    "explanation": "'All wars were stopped' означає паузу в конфліктах (conflicts paused)."
+  },
+  {
+    "id": 415,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "By the time we arrive, the meeting (54) _______.",
+    "question": "Choose the correct variant for (54):",
+    "options": {
+      "A": "will start",
+      "B": "will have started",
+      "C": "starts",
+      "D": "is starting"
+    },
+    "correct_answer": "B",
+    "explanation": "Future Perfect описує дію, що завершиться до певного моменту в майбутньому."
+  },
+  {
+    "id": 416,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I’m looking (71) _______ my glasses. Have you seen them?",
+    "question": "Choose the correct variant for (71):",
+    "options": {
+      "A": "at",
+      "B": "for",
+      "C": "after",
+      "D": "into"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'look for' — шукати."
+  },
+  {
+    "id": 417,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "The (51) _______ information we received was very helpful.",
+    "question": "Choose the correct variant for (51):",
+    "options": {
+      "A": "few",
+      "B": "little",
+      "C": "many",
+      "D": "a few"
+    },
+    "correct_answer": "B",
+    "explanation": "Information — незлічуваний іменник, тому використовуємо 'little'."
+  },
+  {
+    "id": 418,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Travel Insurance: Protect yourself against flight cancellations, medical emergencies, and lost luggage. Standard and Premium plans available. Children under 12 are covered for free.",
+    "question": "Who does not have to pay for the insurance?",
+    "options": {
+      "A": "People with medical degrees.",
+      "B": "Young children traveling with parents.",
+      "C": "Passengers whose luggage was lost.",
+      "D": "Anyone who chooses the Standard plan."
+    },
+    "correct_answer": "B",
+    "explanation": "'Children under 12 are covered for free' — діти до 12 років застраховані безкоштовно."
+  },
+  {
+    "id": 419,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "He didn’t know (55) _______ to do after he lost his job.",
+    "question": "Choose the correct variant for (55):",
+    "options": {
+      "A": "how",
+      "B": "what",
+      "C": "which",
+      "D": "that"
+    },
+    "correct_answer": "B",
+    "explanation": "Питальне слово 'what' (що робити) в непрямому питанні."
+  },
+  {
+    "id": 420,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I can’t (72) _______ up with that noise anymore; it’s driving me crazy!",
+    "question": "Choose the correct variant for (72):",
+    "options": {
+      "A": "put",
+      "B": "keep",
+      "C": "get",
+      "D": "take"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'put up with' — терпіти/миритися з чимось."
+  },
+  {
+    "id": 441,
+    "type": "Grammar (Task 6)",
+    "year": 2024,
+    "text": "The project (41) _______ by the end of this week, so we can finally relax.",
+    "question": "Choose the correct variant for (41):",
+    "options": {
+      "A": "will finish",
+      "B": "will be finished",
+      "C": "will have been finished",
+      "D": "is finishing"
+    },
+    "correct_answer": "C",
+    "explanation": "Future Perfect Passive: дія буде завершена до певного моменту в майбутньому."
+  },
+  {
+    "id": 442,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The police are (63) _______ into the cause of the accident.",
+    "question": "Choose the correct variant for (63):",
+    "options": {
+      "A": "looking",
+      "B": "seeing",
+      "C": "watching",
+      "D": "checking"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'look into' означає 'розслідувати'."
+  },
+  {
+    "id": 443,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "The Great Wall of China was not built all at once. It is a series of walls constructed over centuries by different dynasties to protect their borders from invasions from the north.",
+    "question": "What is true about the construction of the Great Wall?",
+    "options": {
+      "A": "It was completed in less than ten years.",
+      "B": "It was built by a single Chinese emperor.",
+      "C": "It consists of multiple sections built at different times.",
+      "D": "It was mainly built for decorative purposes."
+    },
+    "correct_answer": "C",
+    "explanation": "'Series of walls constructed over centuries' підтверджує, що стіна складається з багатьох частин, побудованих у різний час."
+  },
+  {
+    "id": 444,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I’d rather you (45) _______ anyone about my secret.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "don't tell",
+      "B": "not tell",
+      "C": "didn't tell",
+      "D": "haven't told"
+    },
+    "correct_answer": "C",
+    "explanation": "Після 'I'd rather + subject' для вираження побажання щодо теперішнього/майбутнього вживається Past Simple."
+  },
+  {
+    "id": 445,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The company decided to (64) _______ out a new range of organic products.",
+    "question": "Choose the correct variant for (64):",
+    "options": {
+      "A": "bring",
+      "B": "take",
+      "C": "get",
+      "D": "put"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'bring out' означає 'випускати (новий товар)'."
+  },
+  {
+    "id": 446,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "Only after he had finished the report (42) _______ he realize the mistake.",
+    "question": "Choose the correct variant for (42):",
+    "options": {
+      "A": "did",
+      "B": "does",
+      "C": "had",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": "Інверсія після 'Only after...'. Оскільки основна дія в минулому, використовуємо допоміжне дієслово 'did'."
+  },
+  {
+    "id": 447,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Photography Contest: Submit your best nature photos by October 1st. Open to amateurs only. Winners will receive professional camera equipment and have their work published in our magazine.",
+    "question": "Who can enter this competition?",
+    "options": {
+      "A": "Professional photographers with many awards.",
+      "B": "People who take photos as a hobby.",
+      "C": "Only employees of the magazine.",
+      "D": "Anyone who owns an expensive camera."
+    },
+    "correct_answer": "B",
+    "explanation": "'Amateurs only' означає людей, які займаються цим не професійно, а як хобі."
+  },
+  {
+    "id": 448,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "If you (49) _______ more careful, you wouldn't have broken the vase.",
+    "question": "Choose the correct variant for (49):",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "had been",
+      "D": "would be"
+    },
+    "correct_answer": "C",
+    "explanation": "Third Conditional (умова щодо минулого): If + Past Perfect."
+  },
+  {
+    "id": 449,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "She has to (69) _______ up with a lot of pressure at work.",
+    "question": "Choose the correct variant for (69):",
+    "options": {
+      "A": "keep",
+      "B": "put",
+      "C": "get",
+      "D": "make"
+    },
+    "correct_answer": "B",
+    "explanation": "'Put up with' — миритися/терпіти."
+  },
+  {
+    "id": 450,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "OFFICE MEMO: The elevator will be out of service tomorrow morning for routine maintenance. Please use the stairs.",
+    "question": "What should employees do tomorrow morning?",
+    "options": {
+      "A": "Work from home.",
+      "B": "Wait for the elevator to be fixed.",
+      "C": "Walk up and down the building.",
+      "D": "Call a technician."
+    },
+    "correct_answer": "C",
+    "explanation": "'Use the stairs' означає ходити сходами."
+  },
+  {
+    "id": 451,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "He denied (53) _______ the money from the office safe.",
+    "question": "Choose the correct variant for (53):",
+    "options": {
+      "A": "steal",
+      "B": "to steal",
+      "C": "stealing",
+      "D": "stolen"
+    },
+    "correct_answer": "C",
+    "explanation": "Після дієслова 'deny' (заперечувати) завжди вживається герундій."
+  },
+  {
+    "id": 452,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The medicine should (70) _______ effect within an hour.",
+    "question": "Choose the correct variant for (70):",
+    "options": {
+      "A": "take",
+      "B": "make",
+      "C": "do",
+      "D": "get"
+    },
+    "correct_answer": "A",
+    "explanation": "Сталий вираз 'take effect' — почати діяти (про ліки)."
+  },
+  {
+    "id": 453,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "The person (50) _______ car was stolen is my neighbor.",
+    "question": "Choose the correct variant for (50):",
+    "options": {
+      "A": "who",
+      "B": "whose",
+      "C": "whom",
+      "D": "which"
+    },
+    "correct_answer": "B",
+    "explanation": "'Whose' — чий (вказує на приналежність)."
+  },
+  {
+    "id": 454,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "Honeybees communicate with each other through a series of movements known as the 'waggle dance'. This dance tells other bees exactly where to find the best nectar-rich flowers.",
+    "question": "What is the purpose of the 'waggle dance'?",
+    "options": {
+      "A": "To warn others about predators.",
+      "B": "To share information about food locations.",
+      "C": "To choose a new queen for the hive.",
+      "D": "To stay warm during the winter."
+    },
+    "correct_answer": "B",
+    "explanation": "Танець вказує, де знайти квіти з нектаром (food locations)."
+  },
+  {
+    "id": 455,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "This time tomorrow, we (54) _______ over the Atlantic Ocean.",
+    "question": "Choose the correct variant for (54):",
+    "options": {
+      "A": "will fly",
+      "B": "will be flying",
+      "C": "will have flown",
+      "D": "are flying"
+    },
+    "correct_answer": "B",
+    "explanation": "Future Continuous для дії, що буде відбуватися в конкретний момент у майбутньому."
+  },
+  {
+    "id": 456,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "You should (71) _______ advantage of the opportunity while it lasts.",
+    "question": "Choose the correct variant for (71):",
+    "options": {
+      "A": "take",
+      "B": "make",
+      "C": "get",
+      "D": "do"
+    },
+    "correct_answer": "A",
+    "explanation": "Сталий вираз 'take advantage of' — скористатися перевагою."
+  },
+  {
+    "id": 457,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "Hardly (51) _______ the door when the phone rang.",
+    "question": "Choose the correct variant for (51):",
+    "options": {
+      "A": "I had opened",
+      "B": "had I opened",
+      "C": "did I open",
+      "D": "I opened"
+    },
+    "correct_answer": "B",
+    "explanation": "Інверсія: Hardly + had + Subject + V3."
+  },
+  {
+    "id": 458,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Language School: Intensive summer courses in French, Spanish, and German. Small classes with native speakers. Certificate provided upon completion.",
+    "question": "What do students receive after finishing the course?",
+    "options": {
+      "A": "A job offer in another country.",
+      "B": "A document proving their level.",
+      "C": "A free trip to Europe.",
+      "D": "Discounts for future winter classes."
+    },
+    "correct_answer": "B",
+    "explanation": "'Certificate' — це документ, що підтверджує завершення навчання."
+  },
+  {
+    "id": 459,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The coffee is (55) _______ hot to drink right now.",
+    "question": "Choose the correct variant for (55):",
+    "options": {
+      "A": "enough",
+      "B": "too",
+      "C": "very",
+      "D": "much"
+    },
+    "correct_answer": "B",
+    "explanation": "'Too' (надто) вживається перед прикметником, коли якість є надмірною для дії."
+  },
+  {
+    "id": 460,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I can’t (72) _______ the difference between these two colors.",
+    "question": "Choose the correct variant for (72):",
+    "options": {
+      "A": "say",
+      "B": "tell",
+      "C": "speak",
+      "D": "talk"
+    },
+    "correct_answer": "B",
+    "explanation": "Сталий вираз 'tell the difference' — розрізняти."
+  },
+  {
+    "id": 461,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "She suggested (56) _______ to the museum this afternoon.",
+    "question": "Choose the correct variant for (56):",
+    "options": {
+      "A": "go",
+      "B": "to go",
+      "C": "going",
+      "D": "gone"
+    },
+    "correct_answer": "C",
+    "explanation": "Suggest + герундій."
+  },
+  {
+    "id": 462,
+    "type": "Vocabulary (Task 5)",
+    "year": 2024,
+    "text": "The manager (73) _______ his employees for their hard work during the crisis.",
+    "options": {
+      "A": "thanked",
+      "B": "rewarded",
+      "C": "praised",
+      "D": "congratulated"
+    },
+    "correct_answer": "C",
+    "explanation": "'Praised' (похвалив) найкраще пасує до контексту визнання зусиль."
+  },
+  {
+    "id": 463,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I wish I (57) _______ more time to travel last year.",
+    "question": "Choose the correct variant for (57):",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "had had",
+      "D": "would have"
+    },
+    "correct_answer": "C",
+    "explanation": "Жаль про минуле: Wish + Past Perfect."
+  },
+  {
+    "id": 464,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "Renewable energy sources, like wind and solar power, are essential for reducing our carbon footprint. Unlike coal and oil, they do not emit carbon dioxide, which is the main cause of global warming.",
+    "question": "Why is renewable energy important?",
+    "options": {
+      "A": "It is much cheaper than oil.",
+      "B": "It helps fight climate change.",
+      "C": "It is available in all countries.",
+      "D": "It can be stored forever."
+    },
+    "correct_answer": "B",
+    "explanation": "Зменшення викидів CO2 допомагає боротися з глобальним потеплінням (climate change)."
+  },
+  {
+    "id": 465,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "By next year, they (58) _______ the bridge.",
+    "question": "Choose the correct variant for (58):",
+    "options": {
+      "A": "will build",
+      "B": "will have built",
+      "C": "will be building",
+      "D": "are building"
+    },
+    "correct_answer": "B",
+    "explanation": "Future Perfect для завершеної дії до певного часу."
+  },
+  {
+    "id": 466,
+    "type": "Vocabulary (Task 5)",
+    "year": 2024,
+    "text": "I’m (74) _______ of hearing the same excuses every day.",
+    "options": {
+      "A": "bored",
+      "B": "tired",
+      "C": "fed",
+      "D": "angry"
+    },
+    "correct_answer": "B",
+    "explanation": "Сталий вираз 'be tired of' (втомитися від чогось)."
+  },
+  {
+    "id": 467,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "He is the man (59) _______ daughter won the national prize.",
+    "question": "Choose the correct variant for (59):",
+    "options": {
+      "A": "who",
+      "B": "whose",
+      "C": "whom",
+      "D": "which"
+    },
+    "correct_answer": "B",
+    "explanation": "Приналежність: донька якого (чия донька)."
+  },
+  {
+    "id": 468,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Fitness App: Track your heart rate and calories burned. Set daily step goals and compete with friends. Compatible with all smartwatches.",
+    "question": "What is a social feature of this app?",
+    "options": {
+      "A": "It measures your pulse.",
+      "B": "It connects to your watch.",
+      "C": "It allows you to race against others.",
+      "D": "It gives you healthy recipes."
+    },
+    "correct_answer": "C",
+    "explanation": "'Compete with friends' — це соціальний аспект (змагання з іншими)."
+  },
+  {
+    "id": 469,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "If I (60) _______ you, I would take the job offer.",
+    "question": "Choose the correct variant for (60):",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "C",
+    "explanation": "Second Conditional (порада): If I were you."
+  },
+  {
+    "id": 470,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The flight was (75) _______ due to bad weather conditions.",
+    "options": {
+      "A": "delayed",
+      "B": "stopped",
+      "C": "missed",
+      "D": "stayed"
+    },
+    "correct_answer": "A",
+    "explanation": "'Delayed' (затриманий) — стандартний термін для авіарейсів."
+  },
+  {
+    "id": 471,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "Neither of the books (61) _______ interesting to me.",
+    "question": "Choose the correct variant for (61):",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "A",
+    "explanation": "Neither + однина ('is')."
+  },
+  {
+    "id": 472,
+    "type": "Reading (Task 1)",
+    "year": 2024,
+    "text": "CONCERT ANNOUNCEMENT: The show will start at 8 PM sharp. Doors open at 6:30 PM. No professional cameras allowed.",
+    "question": "When can you enter the building?",
+    "options": {
+      "A": "Any time after 8 PM.",
+      "B": "Starting from 6:30 PM.",
+      "C": "Only at 8 PM sharp.",
+      "D": "Two hours before the show starts."
+    },
+    "correct_answer": "B",
+    "explanation": "'Doors open at 6:30' — час входу."
+  },
+  {
+    "id": 473,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "She has been living in Paris (62) _______ 2010.",
+    "question": "Choose the correct variant for (62):",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "from",
+      "D": "during"
+    },
+    "correct_answer": "B",
+    "explanation": "Since + точка в часі (початок дії)."
+  },
+  {
+    "id": 474,
+    "type": "Vocabulary (Task 5)",
+    "year": 2024,
+    "text": "He (76) _______ a great effort to learn the local language.",
+    "options": {
+      "A": "made",
+      "B": "did",
+      "C": "took",
+      "D": "put"
+    },
+    "correct_answer": "A",
+    "explanation": "Make an effort — докладати зусиль."
+  },
+  {
+    "id": 475,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I’m not used to (63) _______ in such a cold climate.",
+    "question": "Choose the correct variant for (63):",
+    "options": {
+      "A": "live",
+      "B": "living",
+      "C": "to live",
+      "D": "lived"
+    },
+    "correct_answer": "B",
+    "explanation": "Be used to + герундій."
+  },
+  {
+    "id": 476,
+    "type": "Reading (Task 2)",
+    "year": 2023,
+    "text": "Virtual reality (VR) is often associated with gaming, but it is also used in medical training. Surgeons can practice complex operations in a virtual environment before performing them on real patients.",
+    "question": "How does VR benefit surgeons?",
+    "options": {
+      "A": "It allows them to play games during breaks.",
+      "B": "It provides a safe way to practice surgery.",
+      "C": "It replaces the need for real patients.",
+      "D": "It makes operations faster."
+    },
+    "correct_answer": "B",
+    "explanation": "'Practice... in a virtual environment before... real patients' — безпечна практика."
+  },
+  {
+    "id": 477,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The house (64) _______ built ten years ago.",
+    "question": "Choose the correct variant for (64):",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "has been",
+      "D": "had been"
+    },
+    "correct_answer": "B",
+    "explanation": "Past Simple Passive для вказаного часу в минулому (ten years ago)."
+  },
+  {
+    "id": 478,
+    "type": "Vocabulary (Task 5)",
+    "year": 2024,
+    "text": "Could you (77) _______ me a favor and carry this box?",
+    "options": {
+      "A": "make",
+      "B": "do",
+      "C": "get",
+      "D": "give"
+    },
+    "correct_answer": "B",
+    "explanation": "Do a favor — зробити послугу."
+  },
+  {
+    "id": 479,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "You (65) _______ better go to the doctor if you feel sick.",
+    "question": "Choose the correct variant for (65):",
+    "options": {
+      "A": "should",
+      "B": "would",
+      "C": "had",
+      "D": "must"
+    },
+    "correct_answer": "C",
+    "explanation": "Had better + інфінітив (порада)."
+  },
+  {
+    "id": 480,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Art Gallery: New exhibition featuring local artists. Open daily from 10 AM to 5 PM. Entrance is free, but donations are welcome.",
+    "question": "Is there a cost to visit the gallery?",
+    "options": {
+      "A": "Yes, but only for adults.",
+      "B": "No, it is free for everyone.",
+      "C": "Yes, everyone must pay a small fee.",
+      "D": "Only if you want a guided tour."
+    },
+    "correct_answer": "B",
+    "explanation": "'Entrance is free' — вхід вільний."
+  },
+  {
+    "id": 481,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "By the time I reached the station, the train (66) _______.",
+    "question": "Choose the correct variant for (66):",
+    "options": {
+      "A": "left",
+      "B": "was leaving",
+      "C": "had left",
+      "D": "has left"
+    },
+    "correct_answer": "C",
+    "explanation": "Past Perfect для дії, що завершилася до моменту в минулому."
+  },
+  {
+    "id": 482,
+    "type": "Vocabulary (Task 5)",
+    "year": 2024,
+    "text": "The shop (78) _______ out of bread by 10 AM.",
+    "options": {
+      "A": "ran",
+      "B": "went",
+      "C": "got",
+      "D": "was"
+    },
+    "correct_answer": "A",
+    "explanation": "Run out of — закінчитися."
+  },
+  {
+    "id": 483,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "It’s high time we (67) _______ the truth.",
+    "question": "Choose the correct variant for (67):",
+    "options": {
+      "A": "know",
+      "B": "knew",
+      "C": "known",
+      "D": "to know"
+    },
+    "correct_answer": "B",
+    "explanation": "It's high time + Subject + Past Simple."
+  },
+  {
+    "id": 484,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "I can’t talk right now; I (41) _______ my lunch.",
+    "question": "Choose the correct variant for (41):",
+    "options": {
+      "A": "have",
+      "B": "am having",
+      "C": "have had",
+      "D": "had"
+    },
+    "correct_answer": "B",
+    "explanation": "Хоча 'have' зазвичай статiвне дієслово, у значенні 'споживати їжу' воно вживається у Continuous."
+  },
+  {
+    "id": 485,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "The manager decided to (63) _______ the meeting until next Friday.",
+    "question": "Choose the correct variant for (63):",
+    "options": {
+      "A": "put off",
+      "B": "call off",
+      "C": "set off",
+      "D": "take off"
+    },
+    "correct_answer": "A",
+    "explanation": "Фразове дієслово 'put off' означає 'відкладати на потім'."
+  },
+  {
+    "id": 486,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "He is (45) _______ youngest person ever to climb this mountain.",
+    "question": "Choose the correct variant for (45):",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "-"
+    },
+    "correct_answer": "C",
+    "explanation": "Перед найвищим ступенем порівняння прикметників (superlative) завжди ставиться артикль 'the'."
+  },
+  {
+    "id": 487,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "The Sahara Desert is the largest hot desert in the world. Surprisingly, it was not always a dry wasteland; thousands of years ago, it was a lush green landscape with lakes and forests, according to archaeological evidence.",
+    "question": "What does the text reveal about the Sahara's past?",
+    "options": {
+      "A": "It has always been a dry area.",
+      "B": "It used to be a fertile region.",
+      "C": "It was once covered by the ocean.",
+      "D": "It was created by ancient civilizations."
+    },
+    "correct_answer": "B",
+    "explanation": "'Lush green landscape' (буйна зелень) означає родючий регіон (fertile region)."
+  },
+  {
+    "id": 488,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "If I (42) _______ known about the party, I would have come.",
+    "question": "Choose the correct variant for (42):",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "would",
+      "D": "were"
+    },
+    "correct_answer": "B",
+    "explanation": "Third Conditional: If + Past Perfect (had + V3)."
+  },
+  {
+    "id": 489,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I’m sorry, I (64) _______ your birthday. Happy late birthday!",
+    "question": "Choose the correct variant for (64):",
+    "options": {
+      "A": "lost",
+      "B": "missed",
+      "C": "failed",
+      "D": "left"
+    },
+    "correct_answer": "B",
+    "explanation": "'Miss' (пропустити подію) — стандартне слово для днів народження чи зустрічей."
+  },
+  {
+    "id": 490,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "She doesn't like playing (46) _______ piano, but she loves singing.",
+    "question": "Choose the correct variant for (46):",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "-"
+    },
+    "correct_answer": "C",
+    "explanation": "З назвами музичних інструментів у значенні гри на них вживається артикль 'the'."
+  },
+  {
+    "id": 491,
+    "type": "Reading (Matching)",
+    "year": 2024,
+    "text": "Cooking Masterclass: Learn to bake bread with a world-class chef. All ingredients and tools are provided. Class starts at 10 AM and lasts for 4 hours. No experience needed.",
+    "question": "What is the duration of the cooking class?",
+    "options": {
+      "A": "The whole day.",
+      "B": "Four hours.",
+      "C": "Until 10 AM.",
+      "D": "Two hours."
+    },
+    "correct_answer": "B",
+    "explanation": "У тексті прямо сказано: 'lasts for 4 hours'."
+  },
+  {
+    "id": 492,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The windows (43) _______ for months, and they are very dirty.",
+    "question": "Choose the correct variant for (43):",
+    "options": {
+      "A": "haven't cleaned",
+      "B": "haven't been cleaned",
+      "C": "weren't cleaning",
+      "D": "don't clean"
+    },
+    "correct_answer": "B",
+    "explanation": "Present Perfect Passive: вікна не мили (дія триває дотепер)."
+  },
+  {
+    "id": 493,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "Could you (65) _______ me some money until tomorrow?",
+    "question": "Choose the correct variant for (65):",
+    "options": {
+      "A": "borrow",
+      "B": "lend",
+      "C": "give",
+      "D": "take"
+    },
+    "correct_answer": "B",
+    "explanation": "'Lend' — давати в борг, 'borrow' — брати в борг."
+  },
+  {
+    "id": 494,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I wish I (47) _______ taller; I would be a great basketball player.",
+    "question": "Choose the correct variant for (47):",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "C",
+    "explanation": "Після 'wish' для вираження теперішнього жалю використовується 'were' для всіх осіб."
+  },
+  {
+    "id": 495,
+    "type": "Reading (Task 1)",
+    "year": 2023,
+    "text": "WARNING: High tides expected today. Please stay away from the cliffs and keep dogs on a lead.",
+    "question": "What is the advice for visitors?",
+    "options": {
+      "A": "Avoid going to the beach at night.",
+      "B": "Keep your pets under control.",
+      "C": "Climb the cliffs for safety.",
+      "D": "Watch the tides from the edge."
+    },
+    "correct_answer": "B",
+    "explanation": "'Keep dogs on a lead' (на повідку) — це контроль над тваринами."
+  },
+  {
+    "id": 496,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "The cake smells (44) _______.",
+    "question": "Choose the correct variant for (44):",
+    "options": {
+      "A": "delicious",
+      "B": "deliciously",
+      "C": "more delicious",
+      "D": "most delicious"
+    },
+    "correct_answer": "A",
+    "explanation": "Після дієслів сприйняття (smell, taste, look) вживається прикметник, а не прислівник."
+  },
+  {
+    "id": 497,
+    "type": "Vocabulary (Task 5)",
+    "year": 2023,
+    "text": "I don't (66) _______ with my brother; we fight all the time.",
+    "question": "Choose the correct variant for (66):",
+    "options": {
+      "A": "get up",
+      "B": "get along",
+      "C": "get off",
+      "D": "get back"
+    },
+    "correct_answer": "B",
+    "explanation": "Фразове дієслово 'get along (with)' — ладнати з кимось."
+  },
+  {
+    "id": 498,
+    "type": "Use of English (Task 6)",
+    "year": 2025,
+    "text": "I’ll lend you my car (48) _______ you drive carefully.",
+    "question": "Choose the correct variant for (48):",
+    "options": {
+      "A": "unless",
+      "B": "as long as",
+      "C": "although",
+      "D": "even if"
+    },
+    "correct_answer": "B",
+    "explanation": "'As long as' (за умови, що) — сполучник умови."
+  },
+  {
+    "id": 499,
+    "type": "Reading (Task 2)",
+    "year": 2024,
+    "text": "In Japan, it is considered polite to slurps noodles while eating. It shows that you are enjoying the meal and it also helps to cool down the hot food as you eat it.",
+    "question": "Why do people slurp noodles in Japan?",
+    "options": {
+      "A": "Because they are in a hurry.",
+      "B": "To show appreciation for the food.",
+      "C": "Because the noodles are too long.",
+      "D": "To annoy the people around them."
+    },
+    "correct_answer": "B",
+    "explanation": "'Shows that you are enjoying the meal' — вияв вдячності/задоволення (appreciation)."
+  },
+  {
+    "id": 500,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "Not only (49) _______ he speak English, but he also knows Japanese.",
+    "question": "Choose the correct variant for (49):",
+    "options": {
+      "A": "is",
+      "B": "does",
+      "C": "has",
+      "D": "was"
+    },
+    "correct_answer": "B",
+    "explanation": "Інверсія після 'Not only'. Оскільки основне дієслово 'speak' (Present Simple), використовуємо допоміжне 'does'."
   }
-
 ]
