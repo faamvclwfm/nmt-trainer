@@ -24,7 +24,7 @@ if "current_mode" not in st.session_state:
 st.sidebar.header("Налаштування")
 mode = st.sidebar.selectbox(
     "Оберіть режим:", 
-    ["Загальний тест (500 питань)", "Тренажер Confusing Words"]
+    ["Загальні тести", "Тренажер Confusing Words"]
 )
 
 if st.session_state.current_mode != mode:
