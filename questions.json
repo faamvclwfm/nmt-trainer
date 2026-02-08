@@ -7223,5 +7223,1087 @@
     "options": ["hard", "hardly"],
     "correct_answer": "hard",
     "explanation": "'Hard' — тяжко/наполегливо. 'Hardly' — ледве/майже не (має негативний відтінок)."
+  },
+  {
+    "id": "cw_501",
+    "type": "Confusing Words",
+    "pair": "Adapt vs Adopt",
+    "text": "It took the new students some time to (1) _______ to the different teaching style.",
+    "options": {"A": "adapt", "B": "adopt"},
+    "correct_answer": "A",
+    "explanation": "'Adapt' — адаптуватися/пристосовуватися. 'Adopt' — приймати (план/дитину)."
+  },
+  {
+    "id": "cw_502",
+    "type": "Confusing Words",
+    "pair": "Adverse vs Averse",
+    "text": "The project was cancelled due to (2) _______ weather conditions.",
+    "options": {"A": "adverse", "B": "averse"},
+    "correct_answer": "A",
+    "explanation": "'Adverse' — несприятливий/ворожий. 'Averse' — неохочий (має неприязнь до чогось)."
+  },
+  {
+    "id": "cw_503",
+    "type": "Confusing Words",
+    "pair": "Altogether vs All together",
+    "text": "It was (3) _______ too expensive to buy the house.",
+    "options": {"A": "altogether", "B": "all together"},
+    "correct_answer": "A",
+    "explanation": "'Altogether' — цілком/повністю. 'All together' — всі разом."
+  },
+  {
+    "id": "cw_504",
+    "type": "Confusing Words",
+    "pair": "Amoral vs Immoral",
+    "text": "Infants are (4) _______ because they have not yet developed a moral sense.",
+    "options": {"A": "amoral", "B": "immoral"},
+    "correct_answer": "A",
+    "explanation": "'Amoral' — той, що поза мораллю (не розуміє її). 'Immoral' — аморальний (свідомо порушує правила)."
+  },
+  {
+    "id": "cw_505",
+    "type": "Confusing Words",
+    "pair": "Appraise vs Apprise",
+    "text": "The jeweler will (5) _______ the diamond to determine its value.",
+    "options": {"A": "appraise", "B": "apprise"},
+    "correct_answer": "A",
+    "explanation": "'Appraise' — оцінювати вартість. 'Apprise' — інформувати/сповіщати."
+  },
+  {
+    "id": "cw_506",
+    "type": "Confusing Words",
+    "pair": "Assure vs Ensure",
+    "text": "Please (6) _______ that all the windows are closed before you leave.",
+    "options": {"A": "assure", "B": "ensure"},
+    "correct_answer": "B",
+    "explanation": "'Ensure' — гарантувати/переконатися. 'Assure' — запевняти когось словесно."
+  },
+  {
+    "id": "cw_507",
+    "type": "Confusing Words",
+    "pair": "Biannual vs Biennial",
+    "text": "The (7) _______ flower show takes place once every two years.",
+    "options": {"A": "biannual", "B": "biennial"},
+    "correct_answer": "B",
+    "explanation": "'Biennial' — раз на два роки. 'Biannual' — два рази на рік."
+  },
+  {
+    "id": "cw_508",
+    "type": "Confusing Words",
+    "pair": "Censure vs Sensor",
+    "text": "The government faced (8) _______ for its handling of the crisis.",
+    "options": {"A": "censure", "B": "sensor"},
+    "correct_answer": "A",
+    "explanation": "'Censure' — осуд/догана. 'Sensor' — датчик/сенсор."
+  },
+  {
+    "id": "cw_509",
+    "type": "Confusing Words",
+    "pair": "Complement vs Compliment",
+    "text": "Her skill in design is a perfect (9) _______ to his technical expertise.",
+    "options": {"A": "complement", "B": "compliment"},
+    "correct_answer": "A",
+    "explanation": "'Complement' — доповнення. 'Compliment' — комплімент/похвала."
+  },
+  {
+    "id": "cw_510",
+    "type": "Confusing Words",
+    "pair": "Conscience vs Conscious",
+    "text": "He felt a guilty (10) _______ after lying to his parents.",
+    "options": {"A": "conscience", "B": "conscious"},
+    "correct_answer": "A",
+    "explanation": "'Conscience' — совість. 'Conscious' — свідомий/у свідомості."
+  },
+  {
+    "id": "cw_511",
+    "type": "Confusing Words",
+    "pair": "Council vs Counsel",
+    "text": "The city (11) _______ is meeting tonight to discuss the new park.",
+    "options": {"A": "council", "B": "counsel"},
+    "correct_answer": "A",
+    "explanation": "'Council' — рада (орган влади). 'Counsel' — порада/адвокат."
+  },
+  {
+    "id": "cw_512",
+    "type": "Confusing Words",
+    "pair": "Defuse vs Diffuse",
+    "text": "Police were called to (12) _______ the tension between the two groups.",
+    "options": {"A": "defuse", "B": "diffuse"},
+    "correct_answer": "A",
+    "explanation": "'Defuse' — розрядити обстановку (або бомбу). 'Diffuse' — розсіювати(ся)."
+  },
+  {
+    "id": "cw_513",
+    "type": "Confusing Words",
+    "pair": "Discreet vs Discrete",
+    "text": "We need to make some (13) _______ inquiries about his background.",
+    "options": {"A": "discreet", "B": "discrete"},
+    "correct_answer": "A",
+    "explanation": "'Discreet' — стриманий/обережний. 'Discrete' — окремий/роз’єднаний."
+  },
+  {
+    "id": "cw_514",
+    "type": "Confusing Words",
+    "pair": "Disinterested vs Uninterested",
+    "text": "A judge must be a (14) _______ party in every trial.",
+    "options": {"A": "disinterested", "B": "uninterested"},
+    "correct_answer": "A",
+    "explanation": "'Disinterested' — неупереджений. 'Uninterested' — той, кому байдуже."
+  },
+  {
+    "id": "cw_515",
+    "type": "Confusing Words",
+    "pair": "Elicit vs Illicit",
+    "text": "The questionnaire was intended to (15) _______ information on eating habits.",
+    "options": {"A": "elicit", "B": "illicit"},
+    "correct_answer": "A",
+    "explanation": "'Elicit' — витягувати/отримувати (інформацію). 'Illicit' — незаконний."
+  },
+  {
+    "id": "cw_516",
+    "type": "Confusing Words",
+    "pair": "Emigrate vs Immigrate",
+    "text": "Many people (16) _______ from Europe to America in the 19th century.",
+    "options": {"A": "emigrated", "B": "immigrated"},
+    "correct_answer": "A",
+    "explanation": "'Emigrate' — виїжджати З країни. 'Immigrate' — в’їжджати В країну."
+  },
+  {
+    "id": "cw_517",
+    "type": "Confusing Words",
+    "pair": "Flaunt vs Flout",
+    "text": "They continue to (17) _______ the law by building without a permit.",
+    "options": {"A": "flaunt", "B": "flout"},
+    "correct_answer": "B",
+    "explanation": "'Flout' — нехтувати/зневажати (закон). 'Flaunt' — виставляти напоказ."
+  },
+  {
+    "id": "cw_518",
+    "type": "Confusing Words",
+    "pair": "Founder vs Flounder",
+    "text": "Without proper funding, the project will (18) _______ and eventually fail.",
+    "options": {"A": "founder", "B": "flounder"},
+    "correct_answer": "A",
+    "explanation": "'Founder' — зазнати краху/затонути. 'Flounder' — борсатися/діяти невміло."
+  },
+  {
+    "id": "cw_519",
+    "type": "Confusing Words",
+    "pair": "Grisly vs Grizzly",
+    "text": "The news report gave (19) _______ details about the murder.",
+    "options": {"A": "grisly", "B": "grizzly"},
+    "correct_answer": "A",
+    "explanation": "'Grisly' — жахливий/кривавий. 'Grizzly' — порода ведмедя."
+  },
+  {
+    "id": "cw_520",
+    "type": "Confusing Words",
+    "pair": "Hoard vs Horde",
+    "text": "During the war, people began to (20) _______ food and supplies.",
+    "options": {"A": "hoard", "B": "horde"},
+    "correct_answer": "A",
+    "explanation": "'Hoard' — накопичувати/запасати. 'Horde' — орда/великий натовп."
+  },
+  {
+    "id": "cw_521",
+    "type": "Confusing Words",
+    "pair": "Imply vs Infer",
+    "text": "Are you (21) _______ that I am lying?",
+    "options": {"A": "implying", "B": "inferring"},
+    "correct_answer": "A",
+    "explanation": "'Imply' — натякати (говорить мовець). 'Infer' — робити висновок (розуміє слухач)."
+  },
+  {
+    "id": "cw_522",
+    "type": "Confusing Words",
+    "pair": "Loath vs Loathe",
+    "text": "I (22) _______ having to get up early on Sundays.",
+    "options": {"A": "loath", "B": "loathe"},
+    "correct_answer": "B",
+    "explanation": "'Loathe' (дієслово) — ненавидіти. 'Loath' (прикметник) — неохочий."
+  },
+  {
+    "id": "cw_523",
+    "type": "Confusing Words",
+    "pair": "Loose vs Lose",
+    "text": "This ring is too (23) _______; it might fall off my finger.",
+    "options": {"A": "loose", "B": "lose"},
+    "correct_answer": "A",
+    "explanation": "'Loose' — вільний/не затягнутий. 'Lose' — губити."
+  },
+  {
+    "id": "cw_524",
+    "type": "Confusing Words",
+    "pair": "Luxuriant vs Luxurious",
+    "text": "We stayed in a (24) _______ hotel overlooking the sea.",
+    "options": {"A": "luxuriant", "B": "luxurious"},
+    "correct_answer": "B",
+    "explanation": "'Luxurious' — розкішний (про комфорт). 'Luxuriant' — густий/пишний (про рослинність)."
+  },
+  {
+    "id": "cw_525",
+    "type": "Confusing Words",
+    "pair": "Masterful vs Masterly",
+    "text": "The pianist gave a (25) _______ performance of Chopin.",
+    "options": {"A": "masterful", "B": "masterly"},
+    "correct_answer": "B",
+    "explanation": "'Masterly' — майстерний (демонструє вміння). 'Masterful' — владний/деспотичний."
+  },
+  {
+    "id": "cw_526",
+    "type": "Confusing Words",
+    "pair": "Moral vs Morale",
+    "text": "The team’s (26) _______ was high after their recent victory.",
+    "options": {"A": "moral", "B": "morale"},
+    "correct_answer": "B",
+    "explanation": "'Morale' — бойовий дух/настрій. 'Moral' — мораль/повчання."
+  },
+  {
+    "id": "cw_527",
+    "type": "Confusing Words",
+    "pair": "Passed vs Past",
+    "text": "He (27) _______ his driving test on the first attempt.",
+    "options": {"A": "passed", "B": "past"},
+    "correct_answer": "A",
+    "explanation": "'Passed' — минулий час від 'pass' (здати/пройти). 'Past' — минуле (час або напрямок)."
+  },
+  {
+    "id": "cw_528",
+    "type": "Confusing Words",
+    "pair": "Pedal vs Peddle",
+    "text": "He traveled from town to town to (28) _______ his wares.",
+    "options": {"A": "pedal", "B": "peddle"},
+    "correct_answer": "B",
+    "explanation": "'Peddle' — торгувати вроздріб. 'Pedal' — крутити педалі."
+  },
+  {
+    "id": "cw_529",
+    "type": "Confusing Words",
+    "pair": "Practicable vs Practical",
+    "text": "His idea was interesting but not very (29) _______ in real life.",
+    "options": {"A": "practicable", "B": "practical"},
+    "correct_answer": "B",
+    "explanation": "'Practical' — практичний (ефективний). 'Practicable' — той, що можна здійснити."
+  },
+  {
+    "id": "cw_530",
+    "type": "Confusing Words",
+    "pair": "Prescribe vs Proscribe",
+    "text": "The doctor will (30) _______ some medicine for your cough.",
+    "options": {"A": "prescribe", "B": "proscribe"},
+    "correct_answer": "A",
+    "explanation": "'Prescribe' — виписувати рецепт. 'Proscribe' — забороняти."
+  },
+  {
+    "id": "cw_531",
+    "type": "Confusing Words",
+    "pair": "Principal vs Principle",
+    "text": "The (31) _______ reason for the change was to save money.",
+    "options": {"A": "principal", "B": "principle"},
+    "correct_answer": "A",
+    "explanation": "'Principal' — головний/основний. 'Principle' — принцип/закон."
+  },
+  {
+    "id": "cw_532",
+    "type": "Confusing Words",
+    "pair": "Skeptic vs Septic",
+    "text": "If the wound is not cleaned, it may become (32) _______.",
+    "options": {"A": "skeptic", "B": "septic"},
+    "correct_answer": "B",
+    "explanation": "'Septic' — заражений/гнійний. 'Skeptic' — скептик."
+  },
+  {
+    "id": "cw_533",
+    "type": "Confusing Words",
+    "pair": "Stationary vs Stationery",
+    "text": "The car remained (33) _______ at the traffic lights.",
+    "options": {"A": "stationary", "B": "stationery"},
+    "correct_answer": "A",
+    "explanation": "'Stationary' — нерухомий. 'Stationery' — канцтовари."
+  },
+  {
+    "id": "cw_534",
+    "type": "Confusing Words",
+    "pair": "Tortuous vs Torturous",
+    "text": "The road to the summit was (34) _______ and full of sharp bends.",
+    "options": {"A": "tortuous", "B": "torturous"},
+    "correct_answer": "A",
+    "explanation": "'Tortuous' — звивистий. 'Torturous' — болісний (схожий на катування)."
+  },
+  {
+    "id": "cw_535",
+    "type": "Confusing Words",
+    "pair": "Unexceptionable vs Unexceptional",
+    "text": "His performance was (35) _______; it was just average.",
+    "options": {"A": "unexceptionable", "B": "unexceptional"},
+    "correct_answer": "B",
+    "explanation": "'Unexceptional' — звичайний/середній. 'Unexceptionable' — бездоганний (нема до чого придратися)."
+  },
+  {
+    "id": "cw_536",
+    "type": "Confusing Words",
+    "pair": "Wreath vs Wreathe",
+    "text": "They laid a (36) _______ of flowers at the memorial.",
+    "options": {"A": "wreath", "B": "wreathe"},
+    "correct_answer": "A",
+    "explanation": "'Wreath' (іменник) — вінок. 'Wreathe' (дієслово) — оповивати/плести."
+  },
+  {
+    "id": "cw_537",
+    "type": "Confusing Words",
+    "pair": "Advice vs Advise",
+    "text": "I need some (37) _______ on how to fix my computer.",
+    "options": {"A": "advice", "B": "advise"},
+    "correct_answer": "A",
+    "explanation": "'Advice' — порада (іменник). 'Advise' — радити (дієслово)."
+  },
+  {
+    "id": "cw_538",
+    "type": "Confusing Words",
+    "pair": "Afar vs Affair",
+    "text": "The diplomat’s personal (38) _______ were kept private.",
+    "options": {"A": "afar", "B": "affairs"},
+    "correct_answer": "B",
+    "explanation": "'Affair' — справа. 'Afar' — здалеку."
+  },
+  {
+    "id": "cw_539",
+    "type": "Confusing Words",
+    "pair": "Appraise vs Apprise",
+    "text": "We were (39) _______ of the situation by the manager.",
+    "options": {"A": "appraised", "B": "apprised"},
+    "correct_answer": "B",
+    "explanation": "'Apprise' — інформувати. 'Appraise' — оцінювати."
+  },
+  {
+    "id": "cw_540",
+    "type": "Confusing Words",
+    "pair": "Aural vs Oral",
+    "text": "The exam tests both (40) _______ and written skills.",
+    "options": {"A": "aural", "B": "oral"},
+    "correct_answer": "B",
+    "explanation": "'Oral' — усний. 'Aural' — слуховий."
+  },
+  {
+    "id": "cw_541",
+    "type": "Confusing Words",
+    "pair": "Braked vs Broken",
+    "text": "The driver (41) _______ hard to avoid the dog.",
+    "options": {"A": "braked", "B": "broken"},
+    "correct_answer": "A",
+    "explanation": "'Braked' — гальмував. 'Broken' — зламаний."
+  },
+  {
+    "id": "cw_542",
+    "type": "Confusing Words",
+    "pair": "Breach vs Breech",
+    "text": "They were sued for (42) _______ of contract.",
+    "options": {"A": "breach", "B": "breech"},
+    "correct_answer": "A",
+    "explanation": "'Breach' — порушення (правил/угоди). 'Breech' — задня частина."
+  },
+  {
+    "id": "cw_543",
+    "type": "Confusing Words",
+    "pair": "Canvas vs Canvass",
+    "text": "We need to (43) _______ the neighborhood for opinions on the new road.",
+    "options": {"A": "canvas", "B": "canvass"},
+    "correct_answer": "B",
+    "explanation": "'Canvass' — проводити опитування. 'Canvas' — полотно."
+  },
+  {
+    "id": "cw_544",
+    "type": "Confusing Words",
+    "pair": "Cereal vs Serial",
+    "text": "I usually have (44) _______ for breakfast.",
+    "options": {"A": "cereal", "B": "serial"},
+    "correct_answer": "A",
+    "explanation": "'Cereal' — злаки/пластівці. 'Serial' — серійний."
+  },
+  {
+    "id": "cw_545",
+    "type": "Confusing Words",
+    "pair": "Chord vs Cord",
+    "text": "He pulled the (45) _______ to switch on the light.",
+    "options": {"A": "chord", "B": "cord"},
+    "correct_answer": "B",
+    "explanation": "'Cord' — шнур/мотузка. 'Chord' — акорд."
+  },
+  
+  {
+    "id": "cw_546",
+    "type": "Confusing Words",
+    "pair": "Complacent vs Complaisant",
+    "text": "We cannot afford to be (46) _______ about safety standards.",
+    "options": {"A": "complacent", "B": "complaisant"},
+    "correct_answer": "A",
+    "explanation": "'Complacent' — самовдоволений. 'Complaisant' — люб’язний/поступливий."
+  },
+  {
+    "id": "cw_547",
+    "type": "Confusing Words",
+    "pair": "Contemptible vs Contemptuous",
+    "text": "The way he treats his staff is (47) _______.",
+    "options": {"A": "contemptible", "B": "contemptuous"},
+    "correct_answer": "A",
+    "explanation": "'Contemptible' — нікчемний (заслуговує на презирство). 'Contemptuous' — презирливий (виражає презирство)."
+  },
+  {
+    "id": "cw_548",
+    "type": "Confusing Words",
+    "pair": "Desert vs Dessert",
+    "text": "The Sahara is a vast (48) _______.",
+    "options": {"A": "desert", "B": "dessert"},
+    "correct_answer": "A",
+    "explanation": "'Desert' — пустеля. 'Dessert' — десерт."
+  },
+  {
+    "id": "cw_549",
+    "type": "Confusing Words",
+    "pair": "Dual vs Duel",
+    "text": "The computer has a (49) _______ processor for faster performance.",
+    "options": {"A": "dual", "B": "duel"},
+    "correct_answer": "A",
+    "explanation": "'Dual' — подвійний. 'Duel' — дуель."
+  },
+  {
+    "id": "cw_550",
+    "type": "Confusing Words",
+    "pair": "Envelope vs Envelop",
+    "text": "The mist began to (50) _______ the mountainside.",
+    "options": {"A": "envelope", "B": "envelop"},
+    "correct_answer": "B",
+    "explanation": "'Envelop' (дієслово) — огортати. 'Envelope' (іменник) — конверт."
+  },
+  {
+    "id": "cw_551",
+    "type": "Confusing Words",
+    "pair": "Exceptional vs Exceptionable",
+    "text": "Her talent for music is truly (51) _______.",
+    "options": {"A": "exceptional", "B": "exceptionable"},
+    "correct_answer": "A",
+    "explanation": "'Exceptional' — винятковий. 'Exceptionable' — такий, що викликає заперечення."
+  },
+  {
+    "id": "cw_552",
+    "type": "Confusing Words",
+    "pair": "Fawn vs Faun",
+    "text": "A (52) _______ is a creature that is half-man and half-goat.",
+    "options": {"A": "fawn", "B": "faun"},
+    "correct_answer": "B",
+    "explanation": "'Faun' — фавн. 'Fawn' — оленя."
+  },
+  {
+    "id": "cw_553",
+    "type": "Confusing Words",
+    "pair": "Flair vs Flare",
+    "text": "She has a natural (53) _______ for languages.",
+    "options": {"A": "flair", "B": "flare"},
+    "correct_answer": "A",
+    "explanation": "'Flair' — талант/хист. 'Flare' — спалах."
+  },
+  {
+    "id": "cw_554",
+    "type": "Confusing Words",
+    "pair": "Gamble vs Gambol",
+    "text": "The lambs (54) _______ in the meadow.",
+    "options": {"A": "gamble", "B": "gambol"},
+    "correct_answer": "B",
+    "explanation": "'Gambol' — скакати/резвитися. 'Gamble' — грати в азартні ігри."
+  },
+  {
+    "id": "cw_555",
+    "type": "Confusing Words",
+    "pair": "Halt vs Holt",
+    "text": "The train came to a sudden (55) _______.",
+    "options": {"A": "halt", "B": "holt"},
+    "correct_answer": "A",
+    "explanation": "'Halt' — зупинка. 'Holt' — невеликий ліс."
+  },
+  {
+    "id": "cw_556",
+    "type": "Confusing Words",
+    "pair": "Historic vs Historical",
+    "text": "The signing of the treaty was a (56) _______ occasion.",
+    "options": {"A": "historic", "B": "historical"},
+    "correct_answer": "A",
+    "explanation": "'Historic' — історично важливий. 'Historical' — пов’язаний з історією."
+  },
+  {
+    "id": "cw_557",
+    "type": "Confusing Words",
+    "pair": "Hoard vs Horde",
+    "text": "A (57) _______ of angry fans waited outside the stadium.",
+    "options": {"A": "hoard", "B": "horde"},
+    "correct_answer": "B",
+    "explanation": "'Horde' — натовп. 'Hoard' — запас."
+  },
+  {
+    "id": "cw_558",
+    "type": "Confusing Words",
+    "pair": "Illicit vs Elicit",
+    "text": "The (58) _______ trade in ivory must be stopped.",
+    "options": {"A": "illicit", "B": "elicit"},
+    "correct_answer": "A",
+    "explanation": "'Illicit' — незаконний. 'Elicit' — виявляти/отримувати."
+  },
+  {
+    "id": "cw_559",
+    "type": "Confusing Words",
+    "pair": "Ingenuous vs Ingenious",
+    "text": "He is very (59) _______ at fixing broken appliances.",
+    "options": {"A": "ingenuous", "B": "ingenious"},
+    "correct_answer": "B",
+    "explanation": "'Ingenious' — винахідливий. 'Ingenuous' — щирий/наївний."
+  },
+  {
+    "id": "cw_560",
+    "type": "Confusing Words",
+    "pair": "Lightening vs Lightning",
+    "text": "The sky was lit up by (60) _______.",
+    "options": {"A": "lightening", "B": "lightning"},
+    "correct_answer": "B",
+    "explanation": "'Lightning' — блискавка. 'Lightening' — освітлення/полегшення."
+  },
+  {
+    "id": "cw_561",
+    "type": "Confusing Words",
+    "pair": "Mantel vs Mantle",
+    "text": "He placed the clock on the (61) _______ above the fireplace.",
+    "options": {"A": "mantel", "B": "mantle"},
+    "correct_answer": "A",
+    "explanation": "'Mantel' — полиця каміна. 'Mantle' — плащ/покров."
+  },
+  {
+    "id": "cw_562",
+    "type": "Confusing Words",
+    "pair": "Meter vs Metre",
+    "text": "The technician came to read the electricity (62) _______.",
+    "options": {"A": "meter", "B": "metre"},
+    "correct_answer": "A",
+    "explanation": "'Meter' — лічильник. 'Metre' — одиниця довжини (метр)."
+  },
+  {
+    "id": "cw_563",
+    "type": "Confusing Words",
+    "pair": "Official vs Officious",
+    "text": "The (63) _______ report will be released tomorrow.",
+    "options": {"A": "official", "B": "officious"},
+    "correct_answer": "A",
+    "explanation": "'Official' — офіційний. 'Officious' — нав’язливий."
+  },
+  {
+    "id": "cw_564",
+    "type": "Confusing Words",
+    "pair": "Palate vs Palette",
+    "text": "The artist mixed the colors on his (64) _______.",
+    "options": {"A": "palate", "B": "palette"},
+    "correct_answer": "B",
+    "explanation": "'Palette' — палітра. 'Palate' — піднебіння/смак."
+  },
+  {
+    "id": "cw_565",
+    "type": "Confusing Words",
+    "pair": "Peace vs Piece",
+    "text": "I just want a bit of (65) _______ and quiet.",
+    "options": {"A": "peace", "B": "piece"},
+    "correct_answer": "A",
+    "explanation": "'Peace' — спокій. 'Piece' — шматок."
+  },
+  {
+    "id": "cw_566",
+    "type": "Confusing Words",
+    "pair": "Personal vs Personnel",
+    "text": "All hospital (66) _______ must attend the training.",
+    "options": {"A": "personal", "B": "personnel"},
+    "correct_answer": "B",
+    "explanation": "'Personnel' — персонал. 'Personal' — особистий."
+  },
+  {
+    "id": "cw_567",
+    "type": "Confusing Words",
+    "pair": "Pour vs Pore",
+    "text": "She began to (67) _______ over the ancient documents.",
+    "options": {"A": "pour", "B": "pore"},
+    "correct_answer": "B",
+    "explanation": "'Pore over' — уважно вивчати. 'Pour' — лити."
+  },
+  {
+    "id": "cw_568",
+    "type": "Confusing Words",
+    "pair": "Review vs Revue",
+    "text": "The book received a positive (68) _______ in the newspaper.",
+    "options": {"A": "review", "B": "revue"},
+    "correct_answer": "A",
+    "explanation": "'Review' — рецензія/огляд. 'Revue' — шоу/ревю."
+  },
+  {
+    "id": "cw_569",
+    "type": "Confusing Words",
+    "pair": "Right vs Rite",
+    "text": "The baptism is an important religious (69) _______.",
+    "options": {"A": "right", "B": "rite"},
+    "correct_answer": "B",
+    "explanation": "'Rite' — обряд. 'Right' — право/правильний."
+  },
+  {
+    "id": "cw_570",
+    "type": "Confusing Words",
+    "pair": "Stair vs Stare",
+    "text": "It’s rude to (70) _______ at people.",
+    "options": {"A": "stair", "B": "stare"},
+    "correct_answer": "B",
+    "explanation": "'Stare' — пильно дивитися. 'Stair' — сходинка."
+  },
+  
+  {
+    "id": "cw_571",
+    "type": "Confusing Words",
+    "pair": "Accept vs Except",
+    "text": "Everyone (71) _______ John was invited to the party.",
+    "options": {"A": "accept", "B": "except"},
+    "correct_answer": "B",
+    "explanation": "'Except' — за винятком/окрім. 'Accept' — приймати."
+  },
+  {
+    "id": "cw_572",
+    "type": "Confusing Words",
+    "pair": "Altar vs Alter",
+    "text": "They had to (72) _______ their plans due to the rain.",
+    "options": {"A": "altar", "B": "alter"},
+    "correct_answer": "B",
+    "explanation": "'Alter' — змінювати. 'Altar' — вівтар."
+  },
+  {
+    "id": "cw_573",
+    "type": "Confusing Words",
+    "pair": "Ascent vs Assent",
+    "text": "The director gave his (73) _______ to the new proposal.",
+    "options": {"A": "ascent", "B": "assent"},
+    "correct_answer": "B",
+    "explanation": "'Assent' — згода/схвалення. 'Ascent' — підйом/сходження."
+  },
+  {
+    "id": "cw_574",
+    "type": "Confusing Words",
+    "pair": "Baited vs Bated",
+    "text": "We waited with (74) _______ breath for the results.",
+    "options": {"A": "baited", "B": "bated"},
+    "correct_answer": "B",
+    "explanation": "'Bated breath' — затамувавши подих. 'Baited' — з наживкою (про гачок)."
+  },
+  {
+    "id": "cw_575",
+    "type": "Confusing Words",
+    "pair": "Bridal vs Bridle",
+    "text": "The (75) _______ gown was made of pure silk.",
+    "options": {"A": "bridal", "B": "bridle"},
+    "correct_answer": "A",
+    "explanation": "'Bridal' — весільний (від bride). 'Bridle' — вуздечка."
+  },
+  {
+    "id": "cw_576",
+    "type": "Confusing Words",
+    "pair": "Complaisant vs Complacent",
+    "text": "He was too (76) _______ to object to their unfair demands.",
+    "options": {"A": "complaisant", "B": "complacent"},
+    "correct_answer": "A",
+    "explanation": "'Complaisant' — поступливий/люб'язний. 'Complacent' — самовдоволений."
+  },
+  {
+    "id": "cw_577",
+    "type": "Confusing Words",
+    "pair": "Councilor vs Counselor",
+    "text": "The school (77) _______ helped the student choose a university.",
+    "options": {"A": "councilor", "B": "counselor"},
+    "correct_answer": "B",
+    "explanation": "'Counselor' — радник/психолог. 'Councilor' — член ради."
+  },
+  {
+    "id": "cw_578",
+    "type": "Confusing Words",
+    "pair": "Currant vs Current",
+    "text": "The (78) _______ situation in the market is very unstable.",
+    "options": {"A": "currant", "B": "current"},
+    "correct_answer": "B",
+    "explanation": "'Current' — поточний/сучасний. 'Currant' — смородина."
+  },
+  {
+    "id": "cw_579",
+    "type": "Confusing Words",
+    "pair": "Defuse vs Diffuse",
+    "text": "The light was (79) _______ through the thick curtains.",
+    "options": {"A": "defused", "B": "diffused"},
+    "correct_answer": "B",
+    "explanation": "'Diffuse' — розсіяний/розпорошений. 'Defuse' — розрядити (бомбу/ситуацію)."
+  },
+  {
+    "id": "cw_580",
+    "type": "Confusing Words",
+    "pair": "Draft vs Draught",
+    "text": "There is a cold (80) _______ coming from under the door.",
+    "options": {"A": "draft", "B": "draught"},
+    "correct_answer": "B",
+    "explanation": "'Draught' — протяг. 'Draft' — чернетка/проєкт."
+  },
+  {
+    "id": "cw_581",
+    "type": "Confusing Words",
+    "pair": "Dual vs Duel",
+    "text": "He was challenged to a (81) _______ to settle the argument.",
+    "options": {"A": "dual", "B": "duel"},
+    "correct_answer": "B",
+    "explanation": "'Duel' — дуель/поєдинок. 'Dual' — подвійний."
+  },
+  {
+    "id": "cw_582",
+    "type": "Confusing Words",
+    "pair": "Exercise vs Exorcise",
+    "text": "They called a priest to (82) _______ the spirits from the house.",
+    "options": {"A": "exercise", "B": "exorcise"},
+    "correct_answer": "B",
+    "explanation": "'Exorcise' — виганяти злих духів. 'Exercise' — вправа."
+  },
+  {
+    "id": "cw_583",
+    "type": "Confusing Words",
+    "pair": "Flaunt vs Flout",
+    "text": "Rich people shouldn't (83) _______ their wealth in front of the poor.",
+    "options": {"A": "flaunt", "B": "flout"},
+    "correct_answer": "A",
+    "explanation": "'Flaunt' — виставляти напоказ. 'Flout' — зневажати (закон)."
+  },
+  {
+    "id": "cw_584",
+    "type": "Confusing Words",
+    "pair": "Gamble vs Gambol",
+    "text": "It is risky to (84) _______ all your savings on the stock market.",
+    "options": {"A": "gamble", "B": "gambol"},
+    "correct_answer": "A",
+    "explanation": "'Gamble' — ризикувати/грати в азартні ігри. 'Gambol' — резвитися."
+  },
+  {
+    "id": "cw_585",
+    "type": "Confusing Words",
+    "pair": "Gourmet vs Gourmand",
+    "text": "A (85) _______ is someone who enjoys high-quality food and wine.",
+    "options": {"A": "gourmet", "B": "gourmand"},
+    "correct_answer": "A",
+    "explanation": "'Gourmet' — гурман (знавець). 'Gourmand' — любитель поїсти багато."
+  },
+  {
+    "id": "cw_586",
+    "type": "Confusing Words",
+    "pair": "Heroin vs Heroine",
+    "text": "The (86) _______ of the novel is a brave young woman.",
+    "options": {"A": "heroin", "B": "heroine"},
+    "correct_answer": "B",
+    "explanation": "'Heroine' — героїня. 'Heroin' — наркотична речовина."
+  },
+  {
+    "id": "cw_587",
+    "type": "Confusing Words",
+    "pair": "Humiliation vs Humility",
+    "text": "He accepted the award with great (87) _______.",
+    "options": {"A": "humiliation", "B": "humility"},
+    "correct_answer": "B",
+    "explanation": "'Humility' — смиренність/скромність. 'Humiliation' — приниження."
+  },
+  {
+    "id": "cw_588",
+    "type": "Confusing Words",
+    "pair": "Incite vs Insight",
+    "text": "The book provides a deep (88) _______ into human nature.",
+    "options": {"A": "incite", "B": "insight"},
+    "correct_answer": "B",
+    "explanation": "'Insight' — розуміння/інсайт. 'Incite' — підбурювати."
+  },
+  {
+    "id": "cw_589",
+    "type": "Confusing Words",
+    "pair": "Loath vs Loathe",
+    "text": "I am (89) _______ to admit that I was wrong.",
+    "options": {"A": "loath", "B": "loathe"},
+    "correct_answer": "A",
+    "explanation": "'Loath' — неохочий (прикметник). 'Loathe' — ненавидіти (дієслово)."
+  },
+  {
+    "id": "cw_590",
+    "type": "Confusing Words",
+    "pair": "Luxuriant vs Luxurious",
+    "text": "The jungle was filled with (90) _______ vegetation.",
+    "options": {"A": "luxuriant", "B": "luxurious"},
+    "correct_answer": "A",
+    "explanation": "'Luxuriant' — буйний/пишний (про ріст). 'Luxurious' — розкішний."
+  },
+  {
+    "id": "cw_591",
+    "type": "Confusing Words",
+    "pair": "Palate vs Palette",
+    "text": "The chef creates dishes that please every (91) _______.",
+    "options": {"A": "palate", "B": "palette"},
+    "correct_answer": "A",
+    "explanation": "'Palate' — піднебіння/смак. 'Palette' — палітра кольорів."
+  },
+  {
+    "id": "cw_592",
+    "type": "Confusing Words",
+    "pair": "Practice vs Practise",
+    "text": "You need more (92) _______ if you want to win.",
+    "options": {"A": "practice", "B": "practise"},
+    "correct_answer": "A",
+    "explanation": "'Practice' — практика (іменник в UK English). 'Practise' — тренуватися (дієслово)."
+  },
+  {
+    "id": "cw_593",
+    "type": "Confusing Words",
+    "pair": "Prophecy vs Prophesy",
+    "text": "The (93) _______ came true ten years later.",
+    "options": {"A": "prophecy", "B": "prophesy"},
+    "correct_answer": "A",
+    "explanation": "'Prophecy' — пророцтво (іменник). 'Prophesy' — пророкувати (дієслово)."
+  },
+  {
+    "id": "cw_594",
+    "type": "Confusing Words",
+    "pair": "Torturous vs Tortuous",
+    "text": "Waiting for the exam results was a (94) _______ experience.",
+    "options": {"A": "torturous", "B": "tortuous"},
+    "correct_answer": "A",
+    "explanation": "'Torturous' — болісний/схожий на катування. 'Tortuous' — звивистий."
+  },
+  {
+    "id": "cw_595",
+    "type": "Confusing Words",
+    "pair": "Wreath vs Wreathe",
+    "text": "The hills were (95) _______ in mist.",
+    "options": {"A": "wreath", "B": "wreathed"},
+    "correct_answer": "B",
+    "explanation": "'Wreathe' — оповивати/огортати. 'Wreath' — вінок."
+  },
+  {
+    "id": "cw_596",
+    "type": "Confusing Words",
+    "pair": "Advice vs Advise",
+    "text": "Could you (96) _______ me on which car to buy?",
+    "options": {"A": "advice", "B": "advise"},
+    "correct_answer": "B",
+    "explanation": "'Advise' — радити (дієслово). 'Advice' — порада."
+  },
+  {
+    "id": "cw_597",
+    "type": "Confusing Words",
+    "pair": "Appraise vs Apprise",
+    "text": "Have you (97) _______ him of the latest developments?",
+    "options": {"A": "appraised", "B": "apprised"},
+    "correct_answer": "B",
+    "explanation": "'Apprise' — інформувати. 'Appraise' — оцінювати вартість."
+  },
+  {
+    "id": "cw_598",
+    "type": "Confusing Words",
+    "pair": "Born vs Borne",
+    "text": "The costs of the wedding were (98) _______ by the bride's parents.",
+    "options": {"A": "born", "B": "borne"},
+    "correct_answer": "B",
+    "explanation": "'Borne' — перенесений/витриманий (від bear). 'Born' — народжений."
+  },
+  {
+    "id": "cw_599",
+    "type": "Confusing Words",
+    "pair": "Canvas vs Canvass",
+    "text": "The artist used a large (99) _______ for the portrait.",
+    "options": {"A": "canvas", "B": "canvass"},
+    "correct_answer": "A",
+    "explanation": "'Canvas' — полотно. 'Canvass' — збирати голоси/думки."
+  },
+  {
+    "id": "cw_600",
+    "type": "Confusing Words",
+    "pair": "Compliment vs Complement",
+    "text": "He paid her a nice (100) _______ on her new haircut.",
+    "options": {"A": "compliment", "B": "complement"},
+    "correct_answer": "A",
+    "explanation": "'Compliment' — похвала. 'Complement' — доповнення."
+  },
+  {
+    "id": "cw_601",
+    "type": "Confusing Words",
+    "pair": "Discreet vs Discrete",
+    "text": "The machine is made of several (101) _______ parts.",
+    "options": {"A": "discreet", "B": "discrete"},
+    "correct_answer": "B",
+    "explanation": "'Discrete' — окремий/відособлений. 'Discreet' — стриманий."
+  },
+  {
+    "id": "cw_602",
+    "type": "Confusing Words",
+    "pair": "Envelope vs Envelop",
+    "text": "Don't forget to put a stamp on the (102) _______.",
+    "options": {"A": "envelope", "B": "envelop"},
+    "correct_answer": "A",
+    "explanation": "'Envelope' — конверт. 'Envelop' — огортати."
+  },
+  {
+    "id": "cw_603",
+    "type": "Confusing Words",
+    "pair": "Grisly vs Grizzly",
+    "text": "We saw a (103) _______ bear during our trip to Alaska.",
+    "options": {"A": "grisly", "B": "grizzly"},
+    "correct_answer": "B",
+    "explanation": "'Grizzly' — вид ведмедя. 'Grisly' — жахливий."
+  },
+  {
+    "id": "cw_604",
+    "type": "Confusing Words",
+    "pair": "Inquiry vs Enquiry",
+    "text": "The police have launched a formal (104) _______ into the accident.",
+    "options": {"A": "inquiry", "B": "enquiry"},
+    "correct_answer": "A",
+    "explanation": "'Inquiry' — офіційне розслідування. 'Enquiry' — запит інформації."
+  },
+  {
+    "id": "cw_605",
+    "type": "Confusing Words",
+    "pair": "License vs Licence",
+    "text": "You need a (105) _______ to drive a car in this country.",
+    "options": {"A": "license", "B": "licence"},
+    "correct_answer": "B",
+    "explanation": "'Licence' — посвідчення/дозвіл (іменник в UK). 'License' — давати дозвіл."
+  },
+  {
+    "id": "cw_606",
+    "type": "Confusing Words",
+    "pair": "Meter vs Metre",
+    "text": "The race is exactly one hundred (106) _______ long.",
+    "options": {"A": "meters", "B": "metres"},
+    "correct_answer": "B",
+    "explanation": "'Metre' — одиниця довжини (метр). 'Meter' — лічильник."
+  },
+  {
+    "id": "cw_607",
+    "type": "Confusing Words",
+    "pair": "Passed vs Past",
+    "text": "A large truck just (107) _______ us on the highway.",
+    "options": {"A": "passed", "B": "past"},
+    "correct_answer": "A",
+    "explanation": "'Passed' — проїхав повз (дієслово). 'Past' — повз (прийменник)."
+  },
+  {
+    "id": "cw_608",
+    "type": "Confusing Words",
+    "pair": "Pore vs Pour",
+    "text": "Can you (108) _______ some juice for me, please?",
+    "options": {"A": "pore", "B": "pour"},
+    "correct_answer": "B",
+    "explanation": "'Pour' — наливати. 'Pore' — пора шкіри або вивчати."
+  },
+  {
+    "id": "cw_609",
+    "type": "Confusing Words",
+    "pair": "Stationary vs Stationery",
+    "text": "I need to buy some new (109) _______ for the office.",
+    "options": {"A": "stationary", "B": "stationery"},
+    "correct_answer": "B",
+    "explanation": "'Stationery' — канцтовари. 'Stationary' — нерухомий."
+  },
+  {
+    "id": "cw_610",
+    "type": "Confusing Words",
+    "pair": "Uninterested vs Disinterested",
+    "text": "She seems completely (110) _______ in what I'm saying.",
+    "options": {"A": "uninterested", "B": "disinterested"},
+    "correct_answer": "A",
+    "explanation": "'Uninterested' — байдужий. 'Disinterested' — неупереджений."
+  },
+  {
+    "id": "cw_611",
+    "type": "Confusing Words",
+    "pair": "Venal vs Venial",
+    "text": "Lying about your age is a (111) _______ sin.",
+    "options": {"A": "venal", "B": "venial"},
+    "correct_answer": "B",
+    "explanation": "'Venial' — простимий/незначний (гріх). 'Venal' — продажний."
+  },
+  {
+    "id": "cw_612",
+    "type": "Confusing Words",
+    "pair": "Sight vs Site",
+    "text": "This is the (112) _______ where the new hospital will be built.",
+    "options": {"A": "sight", "B": "site"},
+    "correct_answer": "B",
+    "explanation": "'Site' — місце (забудови). 'Sight' — зір/видовище."
+  },
+  {
+    "id": "cw_613",
+    "type": "Confusing Words",
+    "pair": "Yoke vs Yolk",
+    "text": "The (113) _______ of the egg is very yellow.",
+    "options": {"A": "yoke", "B": "yolk"},
+    "correct_answer": "B",
+    "explanation": "'Yolk' — жовток. 'Yoke' — ярмо."
+  },
+  {
+    "id": "cw_614",
+    "type": "Confusing Words",
+    "pair": "Afar vs Affair",
+    "text": "They watched the fire from (114) _______.",
+    "options": {"A": "afar", "B": "affair"},
+    "correct_answer": "A",
+    "explanation": "'Afar' — здалеку. 'Affair' — справа."
+  },
+  {
+    "id": "cw_615",
+    "type": "Confusing Words",
+    "pair": "Aloud vs Allowed",
+    "text": "Smoking is not (115) _______ in the building.",
+    "options": {"A": "aloud", "B": "allowed"},
+    "correct_answer": "B",
+    "explanation": "'Allowed' — дозволено. 'Aloud' — вголос."
+  },
+  {
+    "id": "cw_616",
+    "type": "Confusing Words",
+    "pair": "Braked vs Broken",
+    "text": "My computer is (116) _______ and I can't fix it.",
+    "options": {"A": "braked", "B": "broken"},
+    "correct_answer": "B",
+    "explanation": "'Broken' — зламаний. 'Braked' — гальмував."
+  },
+  {
+    "id": "cw_617",
+    "type": "Confusing Words",
+    "pair": "Cereal vs Serial",
+    "text": "The police are looking for a (117) _______ killer.",
+    "options": {"A": "cereal", "B": "serial"},
+    "correct_answer": "B",
+    "explanation": "'Serial' — серійний. 'Cereal' — злаки."
+  },
+  {
+    "id": "cw_618",
+    "type": "Confusing Words",
+    "pair": "Dual vs Duel",
+    "text": "The car has (118) _______ controls for the driving instructor.",
+    "options": {"A": "dual", "B": "duel"},
+    "correct_answer": "A",
+    "explanation": "'Dual' — подвійний. 'Duel' — дуель."
+  },
+  {
+    "id": "cw_619",
+    "type": "Confusing Words",
+    "pair": "Hoard vs Horde",
+    "text": "They (119) _______ large amounts of food in the cellar.",
+    "options": {"A": "hoard", "B": "horde"},
+    "correct_answer": "A",
+    "explanation": "'Hoard' — робити запаси. 'Horde' — орда/натовп."
+  },
+  {
+    "id": "cw_620",
+    "type": "Confusing Words",
+    "pair": "Peace vs Piece",
+    "text": "Would you like a (120) _______ of cake?",
+    "options": {"A": "peace", "B": "piece"},
+    "correct_answer": "B",
+    "explanation": "'Piece' — шматок. 'Peace' — мир/спокій."
   }
 ]
