@@ -55,29 +55,31 @@ if st.button("Перевірити відповідь") and not st.session_state
 
     if "GOOGLE_API_KEY" in st.secrets:
         try:
-            genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
-            model = genai.GenerativeModel('gemini-1.5-flash')
-            
-            with st.spinner('🤖 ШІ-тьютор аналізує твою відповідь...'):
-                prompt = f"""
-                Ти досвідчений вчитель англійської (НМТ).
-                Текст: "{q.get('text', '')}"
-                Питання: "{q['question']}"
-                Варіант студента: "{user_choice}" ({q['options'][user_choice]})
-                Правильний варіант: "{correct_choice}" ({q['options'][correct_choice]})
+                genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
                 
-                Поясни українською, чому ця відповідь правильна чи ні.
-                """
-                response = model.generate_content(prompt)
+                model = genai.GenerativeModel('gemini-1.5-flash')
                 
-                if response.text:
-                    st.markdown("### 🤖 Коментар ШІ-тьютора:")
-                    st.write(response.text)
-                else:
-                    st.warning("🤖 ШІ повернув порожню відповідь.")
+                with st.spinner('🤖 ШІ-тьютор аналізує твою відповідь...'):
+                    prompt = f"""
+                    Ти досвідчений вчитель англійської (НМТ).
+                    Текст: "{q.get('text', '')}"
+                    Питання: "{q['question']}"
+                    Варіант студента: "{user_choice}" ({q['options'][user_choice]})
+                    Правильний варіант: "{correct_choice}" ({q['options'][correct_choice]})
                     
-        except Exception as e:
-            st.error(f"⚠️ Помилка ШІ: {e}")
+                    Завдання: Поясни українською мовою, чому відповідь правильна чи ні. 
+                    Якщо учень помилився, вкажи на конкретну фразу в тексті.
+                    """
+
+                    response = model.generate_content(prompt)
+                    
+                    if response.text:
+                        st.markdown("### 🤖 Коментар ШІ-тьютора:")
+                        st.success(response.text)
+                    
+            except Exception as e:
+                st.error(f"⚠️ Помилка ШІ: {e}")
+                st.info("Спробуй замінити назву моделі в коді на 'models/gemini-1.5-flash'")
     else:
         st.warning("⚠️ Ключ 'GOOGLE_API_KEY' не знайдено в Streamlit Secrets!")
 
