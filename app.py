@@ -26,7 +26,6 @@ if 'current_question' not in st.session_state:
 def next_question():
     st.session_state.current_question = random.choice(questions)
     st.session_state.answered = False
-    st.rerun()
 
 
 q = st.session_state.current_question
