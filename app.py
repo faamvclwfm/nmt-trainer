@@ -1,6 +1,8 @@
 import streamlit as st
 import json
 import random
+import pandas as pd
+from datetime import datetime
 
 st.set_page_config(page_title="NMT English Ultimate Trainer", layout="wide")
 
@@ -16,15 +18,19 @@ def reset_state():
     st.session_state.answered = False
     st.session_state.score = 0
     st.session_state.total = 0
+    st.session_state.history = []
+
+if "history" not in st.session_state:
+    st.session_state.history = []
 
 if "current_mode" not in st.session_state:
-    st.session_state.current_mode = "Загальні тести"
+    st.session_state.current_mode = "Загальний тест (500 питань)"
     reset_state()
 
 st.sidebar.header("Налаштування")
 mode = st.sidebar.selectbox(
     "Оберіть режим:", 
-    ["Загальні тести", "Тренажер Confusing Words"]
+    ["Загальний тест (500 питань)", "Тренажер Confusing Words"]
 )
 
 if st.session_state.current_mode != mode:
@@ -60,7 +66,16 @@ for i, key in enumerate(options):
     if cols[i].button(label, disabled=st.session_state.answered, key=f"btn_{i}"):
         st.session_state.answered = True
         st.session_state.total += 1
-        if key == q['correct_answer']:
+        is_correct = key == q['correct_answer']
+        
+        st.session_state.history.append({
+            "Час": datetime.now().strftime("%H:%M:%S"),
+            "Питання": q['text'][:50] + "...",
+            "Ваша відповідь": label,
+            "Результат": "✅" if is_correct else "❌"
+        })
+
+        if is_correct:
             st.success("✅ Правильно!")
             st.session_state.score += 1
         else:
@@ -75,6 +90,18 @@ if st.session_state.answered:
 
 st.sidebar.divider()
 st.sidebar.write(f"📊 **Рахунок:** {st.session_state.score} / {st.session_state.total}")
+
+if st.session_state.history:
+    st.sidebar.subheader("Збереження")
+    df = pd.DataFrame(st.session_state.history)
+    csv = df.to_csv(index=False).encode('utf-8-sig')
+    st.sidebar.download_button(
+        label="📥 Завантажити результати (CSV)",
+        data=csv,
+        file_name=f"nmt_results_{datetime.now().strftime('%Y%m%d_%H%M')}.csv",
+        mime="text/csv",
+    )
+
 if st.sidebar.button("Скинути прогрес"):
     reset_state()
     st.rerun()
