@@ -7,77 +7,91 @@ import os
 
 st.set_page_config(page_title="НМТ Англійська + AI", page_icon="🇬🇧")
 
-st.title("🇬🇧 НМТ English Trainer + AI Tutor")
-st.write("Тренуйся на реальних тестах, а ШІ пояснить помилки!")
-
 
 @st.cache_data
 def load_questions():
-    with open('questions.json', 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open('questions.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        st.error(f"Помилка завантаження JSON: {e}")
+        return []
 
 questions = load_questions()
 
 
-if 'current_question' not in st.session_state:
-    st.session_state.current_question = random.choice(questions)
+if 'score' not in st.session_state:
+    st.session_state.score = 0
+if 'total' not in st.session_state:
+    st.session_state.total = 0
+if 'answered' not in st.session_state:
     st.session_state.answered = False
+if 'current_question' not in st.session_state:
+    if questions:
+        st.session_state.current_question = random.choice(questions)
+    else:
+        st.session_state.current_question = None
+
 
 def next_question():
-    st.session_state.current_question = random.choice(questions)
+    if questions:
+        st.session_state.current_question = random.choice(questions)
     st.session_state.answered = False
 
 
-q = st.session_state.current_question
 
-st.info(f"**Тип завдання:** {q['type']}")
-if q.get('text'):
-    st.text_area("Read the text:", value=q['text'], height=150, disabled=True)
+st.title("🇬🇧 НМТ English Trainer")
+st.sidebar.metric("Мій результат", f"{st.session_state.score}/{st.session_state.total}")
 
-st.subheader(q['question'])
-
-
-options = list(q['options'].keys())
-choice = st.radio("Обери варіант:", options, format_func=lambda x: f"{x}) {q['options'][x]}")
-
-
-if st.button("Перевірити відповідь") and not st.session_state.answered:
-    st.session_state.answered = True
+if st.session_state.current_question:
+    q = st.session_state.current_question
     
-    user_choice = choice
-    correct_choice = q['correct_answer']
+    st.info(f"Завдання: {q['type']} ({q['year']} рік)")
+    if q.get('text'):
+        st.markdown(f"**Read the text:**\n{q['text']}")
     
-    if user_choice == correct_choice:
-        st.success(f"✅ Правильно! Це дійсно варіант {correct_choice}.")
-    else:
-        st.error(f"❌ Неправильно. Ти обрав {user_choice}, а правильно {correct_choice}.")
+    st.subheader(q['question'])
+    
+    options = list(q['options'].keys())
+    user_choice = st.radio(
+        "Обери відповідь:", 
+        options, 
+        format_func=lambda x: f"{x}) {q['options'][x]}",
+        key=f"q_{q['id']}"
+    )
 
+    if st.button("Перевірити"):
+        st.session_state.answered = True
+        st.session_state.total += 1
+        
+        if user_choice == q['correct_answer']:
+            st.success("✅ Правильно!")
+            st.session_state.score += 1
+        else:
+            st.error(f"❌ Неправильно. Правильна відповідь: {q['correct_answer']}")
 
-    if "GOOGLE_API_KEY" in st.secrets:
-        try:
-            genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
-            model = genai.GenerativeModel('gemini-1.5-flash')
-            
-            with st.spinner('🤖 ШІ-тьютор аналізує твою відповідь...'):
-                prompt = f"""
-                Ти досвідчений вчитель англійської (НМТ).
-                Текст: "{q.get('text', '')}"
-                Питання: "{q['question']}"
-                Варіант студента: "{user_choice}"
-                Правильний варіант: "{correct_choice}"
+        if "GOOGLE_API_KEY" in st.secrets:
+            try:
+                genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
+                model = genai.GenerativeModel('gemini-1.5-flash')
                 
-                Поясни українською мовою, чому ця відповідь правильна.
-                """
-                response = model.generate_content(prompt)
-                
-                if response.text:
-                    st.markdown("### 🤖 Коментар ШІ-тьютора:")
-                    st.info(response.text)
-                    
-        except Exception as e:
-            st.error(f"⚠️ Помилка ШІ: {e}")
-    else:
-        st.warning("⚠️ Не знайдено API ключ у Secrets.")
+                with st.spinner('🤖 ШІ-тьютор готує пояснення...'):
+                    prompt = f"""
+                    Ти вчитель англійської мови. Поясни коротким текстом українською мовою, 
+                    чому в цьому питанні правильна відповідь {q['correct_answer']}.
+                    Контекст: {q.get('text', '')}
+                    Питання: {q['question']}
+                    Варіант учня: {user_choice}
+                    """
+                    response = model.generate_content(prompt)
+                    st.info(f"🤖 Пояснення ШІ:\n\n{response.text}")
+            except Exception as e:
+                st.warning(f"ШІ тимчасово недоступний: {e}")
+        else:
+            st.warning("API ключ не знайдено в Secrets.")
 
-if st.session_state.answered:
-    st.button("Наступне питання ➡️", on_click=next_question)
+
+    if st.session_state.answered:
+        st.button("Наступне питання ➡️", on_click=next_question)
+else:
+    st.write("Питання не знайдені. Перевір файл questions.json")
