@@ -7187,5 +7187,41 @@
     },
     "correct_answer": "B",
     "explanation": "Інверсія після 'Not only'. Оскільки основне дієслово 'speak' (Present Simple), використовуємо допоміжне 'does'."
+  },
+  {
+    "id": "cw_10",
+    "type": "Confusing Words",
+    "pair": "Compliment vs Complement",
+    "text": "That silver necklace is the perfect (10) _______ to your dress.",
+    "options": ["compliment", "complement"],
+    "correct_answer": "complement",
+    "explanation": "'Complement' — доповнення (щось, що робить інше кращим). 'Compliment' — комплімент (похвала)."
+  },
+  {
+    "id": "cw_11",
+    "type": "Confusing Words",
+    "pair": "Principal vs Principle",
+    "text": "The (11) _______ of the school addressed the students during the assembly.",
+    "options": ["principal", "principle"],
+    "correct_answer": "principal",
+    "explanation": "'Principal' — директор школи або основний. 'Principle' — принцип (моральне правило)."
+  },
+  {
+    "id": "cw_12",
+    "type": "Confusing Words",
+    "pair": "Desert vs Dessert",
+    "text": "After dinner, we had a delicious chocolate (12) _______.",
+    "options": ["desert", "dessert"],
+    "correct_answer": "dessert",
+    "explanation": "'Dessert' (два 's') — десерт (солодощі). 'Desert' (одне 's') — пустеля або кидати напризволяще."
+  },
+  {
+    "id": "cw_13",
+    "type": "Confusing Words",
+    "pair": "Hard vs Hardly",
+    "text": "He worked very (13) _______ to pass the exam, studying late every night.",
+    "options": ["hard", "hardly"],
+    "correct_answer": "hard",
+    "explanation": "'Hard' — тяжко/наполегливо. 'Hardly' — ледве/майже не (має негативний відтінок)."
   }
 ]

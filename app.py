@@ -3,77 +3,54 @@ import json
 import random
 
 
-st.set_page_config(page_title="НМТ Англійська: Тренажер", page_icon="🇬🇧")
+def load_data():
+    with open('questions.json', 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+data = load_data()
+
+st.title("🚀 NMT English Ultimate Trainer")
 
 
-@st.cache_data
-def load_questions():
-    try:
-        with open('questions.json', 'r', encoding='utf-8') as f:
-            return json.load(f)
-    except Exception as e:
-        st.error(f"Помилка завантаження бази питань: {e}")
-        return []
-
-questions = load_questions()
+st.sidebar.header("Налаштування")
+mode = st.sidebar.selectbox(
+    "Оберіть режим:", 
+    ["Загальний тест (500 питань)", "Тренажер Confusing Words"]
+)
 
 
-if 'score' not in st.session_state:
-    st.session_state.score = 0
-if 'total' not in st.session_state:
-    st.session_state.total = 0
-if 'answered' not in st.session_state:
-    st.session_state.answered = False
-if 'current_question' not in st.session_state:
-    if questions:
-        st.session_state.current_question = random.choice(questions)
-    else:
-        st.session_state.current_question = None
-
-def next_question():
-    if questions:
-        new_q = random.choice(questions)
-        if len(questions) > 1:
-            while new_q['id'] == st.session_state.current_question['id']:
-                new_q = random.choice(questions)
-        st.session_state.current_question = new_q
-    st.session_state.answered = False
-
-st.title("🇬🇧 NMT English Practice")
-st.sidebar.metric("Результат", f"{st.session_state.score}/{st.session_state.total}")
-
-if st.session_state.current_question:
-    q = st.session_state.current_question
-    st.caption(f"📌 {q.get('type')} | Рік: {q.get('year')}")
-    
-    if q.get('text'):
-        st.markdown(f"**Read the text:**\n{q['text']}")
-    
-    st.subheader(q.get('question'))
-    
-    options = q.get('options', {})
-    user_choice = st.radio(
-        "Варіанти:", 
-        list(options.keys()), 
-        format_func=lambda x: f"{x}) {options[x]}",
-        key=f"radio_{q.get('id')}",
-        disabled=st.session_state.answered
-    )
-
-    if not st.session_state.answered:
-        if st.button("Перевірити ✅", use_container_width=True):
-            st.session_state.answered = True
-            st.session_state.total += 1
-            if user_choice == q['correct_answer']:
-                st.success("Правильно!")
-                st.session_state.score += 1
-            else:
-                st.error(f"Неправильно. Правильна відповідь: {q['correct_answer']}")
-    
-
-    if st.session_state.answered:
-        st.info(f"💡 **Пояснення:**\n\n{q.get('explanation', 'Пояснення скоро буде додано.')}")
-        st.button("Наступне питання ➡️", on_click=next_question, use_container_width=True)
-
+if mode == "Тренажер Confusing Words":
+    questions = [q for q in data if q.get('type') == 'Confusing Words']
+    st.subheader("🎯 Тренуємо слова, які часто плутають")
 else:
-    st.warning("Питання не знайдені.")
+    questions = [q for q in data if q.get('type') != 'Confusing Words']
+    st.subheader("📚 Підготовка до основних завдань НМТ")
+
+
+if 'current_q' not in st.session_state:
+    st.session_state.current_q = random.choice(questions)
+    st.session_state.score = 0
+    st.session_state.total = 0
+
+q = st.session_state.current_q
+
+st.info(f"Питання: {q['text']}")
+
+cols = st.columns(len(q['options']))
+for i, option in enumerate(q['options']):
+    if cols[i].button(option):
+        st.session_state.total += 1
+        if option == q['correct_answer']:
+            st.success("✅ Правильно!")
+            st.session_state.score += 1
+        else:
+            st.error(f"❌ Помилка! Правильна відповідь: {q['correct_answer']}")
+        
+        st.write(f"💡 **Пояснення:** {q['explanation']}")
+        
+        if st.button("Наступне питання ➡️"):
+            st.session_state.current_q = random.choice(questions)
+            st.rerun()
+
+st.sidebar.divider()
+st.sidebar.write(f"📊 Рахунок: {st.session_state.score} / {st.session_state.total}")
