@@ -2,6 +2,7 @@
   {
     "id": 1,
     "type": "Reading (Task 2)",
+    "year": 2026,
     "text": "My name is John. I am someone who never went to college but always thought about it. [...] College was just a lifelong dream of mine. I just turned sixty-four years old in September. I still thought about that old dream. Was it too late? I had lots of time now. Would I dare try? There was an Advant-Age Programme at the local University. I decided to step out of my comfort zone and sign up.",
     "question": "What is TRUE of John, according to the text?",
     "options": {
@@ -11,5 +12,47 @@
       "D": "He launched an Advant-Age Programme."
     },
     "correct_answer": "A"
+  },
+  {
+    "id": 2,
+    "type": "Reading (Task 1)",
+    "year": 2026,
+    "text": "JOIN OUR TEAM! Management Opportunity. Up to $16 an hour to start. BURGER KING. $500 Welcome Bonus. E-mail your resume to: fpsbk@fpsbk.net",
+    "question": "This advertisement is about...",
+    "options": {
+      "A": "Educational courses",
+      "B": "A fitness club membership",
+      "C": "A job opportunity",
+      "D": "A food delivery service"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "id": 3,
+    "type": "Grammar (Task 6)",
+    "year": 2025,
+    "text": "When you think of a robot, what do you see? Flying robots (29) _______ look like helicopters, or have wings like insects or birds.",
+    "question": "Choose the correct variant for (29):",
+    "options": {
+      "A": "might",
+      "B": "ought",
+      "C": "must to",
+      "D": "should to"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "id": 4,
+    "type": "Vocabulary (Task 5)",
+    "year": 2025,
+    "text": "The story begins with Mortimer 'Mo' Folchart and his wife Resa reading the fairy tale to their (25) _______ daughter Meggie.",
+    "question": "Choose the correct variant for (25):",
+    "options": {
+      "A": "teenage",
+      "B": "infant",
+      "C": "adolescent",
+      "D": "young"
+    },
+    "correct_answer": "D"
   }
 ]
