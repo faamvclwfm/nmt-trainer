@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import random
 
-st.set_page_config(page_title="NMT English Ultimate Trainer", layout="wide")
+st.set_page_config(page_title="NMT Multi-Trainer", layout="wide")
 
 def load_data():
     with open('questions.json', 'r', encoding='utf-8') as f:
@@ -17,13 +17,13 @@ def reset_state():
     st.session_state.total = 0
 
 if "current_mode" not in st.session_state:
-    st.session_state.current_mode = "Загальні тести"
+    st.session_state.current_mode = "Англійська: Загальні тести"
     reset_state()
 
-st.sidebar.header("Налаштування")
+st.sidebar.header("🎓 Оберіть предмет")
 mode = st.sidebar.selectbox(
-    "Оберіть режим:", 
-    ["Загальні тести", "Тренажер Confusing Words"]
+    "Режим тренування:", 
+    ["Англійська: Загальні тести", "Англійська: Confusing Words", "Історія: Цитати НМТ"]
 )
 
 if st.session_state.current_mode != mode:
@@ -31,18 +31,23 @@ if st.session_state.current_mode != mode:
     reset_state()
     st.rerun()
 
-if mode == "Тренажер Confusing Words":
+# Фільтрація питань
+if mode == "Англійська: Confusing Words":
     questions = [q for q in data if "Confusing" in str(q.get('type', ''))]
-    title = "🎯 Тренуємо слова, які часто плутають"
+    title = "🎯 Confusing Words Trainer"
+elif mode == "Історія: Цитати НМТ":
+    questions = [q for q in data if "History" in str(q.get('type', ''))]
+    title = "📜 Тренажер історичних цитат"
 else:
-    questions = [q for q in data if "Confusing" not in str(q.get('type', ''))]
-    title = "📚 Підготовка до основних завдань НМТ"
+    # Все, що не входить в попередні дві категорії (граматика, лексика Англ)
+    questions = [q for q in data if "Confusing" not in str(q.get('type', '')) and "History" not in str(q.get('type', ''))]
+    title = "📚 Англійська мова: Підготовка до НМТ"
 
-st.title("🚀 NMT English Ultimate Trainer")
+st.title("🚀 NMT Ultimate Trainer")
 st.subheader(title)
 
 if not questions:
-    st.error("Питання для цього режиму не знайдені у файлі questions.json!")
+    st.error(f"У файлі questions.json не знайдено питань для режиму: {mode}")
     st.stop()
 
 if st.session_state.current_q is None or st.session_state.current_q not in questions:
@@ -51,7 +56,7 @@ if st.session_state.current_q is None or st.session_state.current_q not in quest
 
 q = st.session_state.current_q
 
-st.info(f"**Контекст:** {q['text']}")
+st.info(f"**Текст:** {q['text']}")
 if q.get('question'):
     st.warning(f"❓ **Запитання:** {q['question']}")
 
@@ -78,7 +83,7 @@ if st.session_state.answered:
 
 st.sidebar.divider()
 st.sidebar.write(f"📊 **Рахунок:** {st.session_state.score} / {st.session_state.total}")
-st.sidebar.write(f"📂 Всього питань у режимі: {len(questions)}")
+st.sidebar.write(f"📂 Доступно питань: {len(questions)}")
 if st.sidebar.button("Скинути прогрес"):
     reset_state()
     st.rerun()
