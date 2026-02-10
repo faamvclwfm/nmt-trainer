@@ -23,7 +23,12 @@ if "current_mode" not in st.session_state:
 st.sidebar.header("🎓 Оберіть предмет")
 mode = st.sidebar.selectbox(
     "Режим тренування:", 
-    ["Англійська: Загальні тести", "Англійська: Confusing Words", "Історія: Цитати НМТ"]
+    [
+        "Англійська: Загальні тести", 
+        "Англійська: Confusing Words", 
+        "Історія: Цитати НМТ",
+        "Українська: Тренажер наголосів"
+    ]
 )
 
 if st.session_state.current_mode != mode:
@@ -31,17 +36,19 @@ if st.session_state.current_mode != mode:
     reset_state()
     st.rerun()
 
-# Фільтрація питань
+# Логіка фільтрації
 if mode == "Англійська: Confusing Words":
     questions = [q for q in data if "Confusing" in str(q.get('type', ''))]
     title = "🎯 Confusing Words Trainer"
 elif mode == "Історія: Цитати НМТ":
     questions = [q for q in data if "History" in str(q.get('type', ''))]
     title = "📜 Тренажер історичних цитат"
+elif mode == "Українська: Тренажер наголосів":
+    questions = [q for q in data if "Accent" in str(q.get('type', ''))]
+    title = "🗣️ Наголоси у словах (Укр. мова)"
 else:
-    # Все, що не входить в попередні дві категорії (граматика, лексика Англ)
-    questions = [q for q in data if "Confusing" not in str(q.get('type', '')) and "History" not in str(q.get('type', ''))]
-    title = "📚 Англійська мова: Підготовка до НМТ"
+    questions = [q for q in data if all(k not in str(q.get('type', '')) for k in ["Confusing", "History", "Accent"])]
+    title = "📚 Англійська мова: Основна підготовка"
 
 st.title("🚀 NMT Ultimate Trainer")
 st.subheader(title)
@@ -56,9 +63,10 @@ if st.session_state.current_q is None or st.session_state.current_q not in quest
 
 q = st.session_state.current_q
 
-st.info(f"**Текст:** {q['text']}")
+# Відображення питання
+st.info(f"**Завдання:** {q['text']}")
 if q.get('question'):
-    st.warning(f"❓ **Запитання:** {q['question']}")
+    st.warning(f"❓ {q['question']}")
 
 options = q['options']
 cols = st.columns(len(options))
@@ -81,6 +89,7 @@ if st.session_state.answered:
         st.session_state.answered = False
         st.rerun()
 
+# Статистика в сайдбарі
 st.sidebar.divider()
 st.sidebar.write(f"📊 **Рахунок:** {st.session_state.score} / {st.session_state.total}")
 st.sidebar.write(f"📂 Доступно питань: {len(questions)}")
